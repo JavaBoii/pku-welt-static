@@ -1,0 +1,683 @@
+Bild uuid,Gruppe,Deutscher Artikelname,Nettogewicht,Preis in €,Eiweiß in g (auf 100g),Eiweiß in g (Pro Stück),Russischer Artikelname
+036d388a-c49a-42be-ad5f-8b0fac860b28,Hammermühle,Mehlmischung,1000g,5.55   ,0.2,,Мука
+04beb3d3-df45-48d1-91a4-bcc5a92f8d1e,Hammermühle,Mehl-Mix Rustikal,1000g,6.15   ,2.0,,"Смесь для белого хлеба ""Деревенская"""
+a9925858-b5db-4374-9fb8-f18b753aca0c,Hammermühle,Mehl-Mix Hell,1000g,5.55   ,2.2,,"Смесь для белого хлеба ""Cветлая"""
+e1d631f3-3a7c-49a0-a3f8-774cddacfdbc,Hammermühle,Back-Mix Kastanienbrot,500g,4.30   ,2.2,,Смесь для черного хлеба
+ab87d65d-b5df-4ace-9417-e6cf4bc0bf08,Hammermühle,Back-Mix Weissbrot,500g,4.30   ,1,,Смесь для белого хлеба
+57d6256e-2265-45e6-bef0-eee3dddcc25c,Hammermühle,Mehl-Mix Pizza,500g,4.30   ,1.2,,Смесь для приготовления пиццы
+4579d8e2-e157-4e0b-bd9f-536261a37340,Hammermühle,Ei-Ersatz,250g,6.15   ,0.5,,Заменитель яиц
+83dfe5f2-14e8-4e4d-89ba-e41a425d50d0,Hammermühle,Trokensauerteig,500g,7.98   ,7.5,,Сухая закваска для приготовления хлеба
+d6181cc3-75a5-47f0-90c0-e5610ae5ce8c,Hammermühle,Haltbares Weissbrot,500g,4.90   ,1.0,,Белый хлеб долгого хранения
+92af0768-1ac3-47f1-a940-85f79efbdb36,Hammermühle,Baguette Haltbares ,500g,5.55   ,1.0,,Багеты долгого хранения
+df01bf3d-a5a7-4a66-8cc2-5a1df65793c4,Hammermühle,Bauernbrot haltbar,215g,4.30   ,2.0,,Каштановый хлеб долгого хранения
+438e09d5-7505-4b68-85a7-931ee709a012,Hammermühle,Pizzaboden vorgebacken,450g,7.50   ,1.0,,Основание для пиццы 3 коржа
+f5908d91-b2b9-4842-a02c-17a4532b2f82,Hammermühle,Waffelbrot,100g,4.05   ,0.6,,"Вафельные листы, подходят для бутербродов и приготовления тортов"
+e4d98db3-af75-4802-a37f-065acb97bfce,Hammermühle,Aproten Spaghetti,500g,6.75   ,0.6,,Спагетти Апротен
+c226f7d7-d6cc-4661-920f-76ebeb608147,Hammermühle,Aproten Rigatini,500g,7.40   ,0.6,,Короткие макароны фирмы Апротен
+5241f104-fbba-44db-91ee-8992450aed54,Hammermühle,Aproten Tagliatelle,250g,6.75   ,0.6,,Макароны гнезда фирмы Апротен
+39be5831-da18-4d41-8c06-cb9f88bcbb60,Hammermühle,Himbeerkekse,125g,3.70   ,2.7,,Малиновое печенье с ванильным кремом
+bcd360eb-2871-44c4-836e-5904c51f521a,Hammermühle,Schweinsohren mit Zartbitterschokolade,120g,5.00   ,2.6,,"Слоеное печенье ""свинные ушки"" в темном шоколаде"
+1a9a4031-1eb7-46ee-9df2-f1b0c622bf2f,Harifen,Harifen Backmischung für Brot/Gebäck,500g,4.95   ,0.3,,Смесь для приготовления хлеба и выпечки
+1bceccdd-aa45-4f69-88a0-f938e140e386,Harifen,Harifen Mix für Karamellpuding,500g,8.65   ,0.8,,Смесь для приготовления карамельного пудинга
+9cd1fbd2-be64-4e59-88a7-8da396a6a225,Harifen,Harifen Schoko-Shake Mix,500g,8.65   ,4,,Смесь для шоколадного напитка
+6fab0654-f76c-4e02-aa6a-e25d9f084680,Harifen,Harifen Pasta Riso,500g,6.10   ,0.4,,Заменитель риса фирмы Харифен
+5eb34e53-70e1-434a-b946-dcbc17c0befc,Harifen,Harifen Cous-Cous,500g,6.00   ,0.4,,Кус кус
+979d3f28-5237-46e1-b2d1-019f406179aa,Harifen,Harifen Buchstabennudeln,500g,7.70   ,0.35,,Макароны Буковки
+d223f344-c029-4a09-af05-cb80e7bb5486,Harifen,Harifen Fusilli,500g,6.00   ,0.35,,Макароны Спиральки
+09305712-77f6-4ca4-a6dc-27c6c1efff99,Harifen,Harifen Bunte Fusilli,500g,6.00   ,0.9,,Макароны цветные Спиральки
+2630cc06-15c1-4d79-95b3-4a91c593a8ce,Harifen,Harifen Penne,500g,6.00   ,0.35,,Макароны Перья
+d9e97c18-e27e-46e8-930e-3cba56a7ade2,Harifen,Harifen Spaghetti,500g,6.00   ,0.35,,Макароны Спагетти
+d686d7f8-dcf8-473b-a153-676563674b0f,Harifen,Harifen Suppennudeln,500g,6.00   ,0.35,,Вермишель для супа
+36a3ff29-e8c5-4f6b-b680-f50235f8b191,Harifen,Harifen Gebäck-Zungen,125g,4.50   ,0.35,,Печенье карамельные язычки
+1ea91740-abc5-4b1c-8652-9b6422d986ab,Harifen,Harifen Cookies Cacaochips,150g,4.50   ,0.55,,Печенье фирмы Харифен с шоколадными крошками
+a66e84e4-0a48-427d-80b5-1096f77f691e,Harifen,Harifen Vanilla Kekse,200g,4.50   ,0.35,,Ванильное печенье
+45b2a7ce-e7ba-4f72-92a5-476d0ae0afbb,Harifen,Harifen Kakao Kekse,125g,4.50   ,0.55,,Шоколадное печенье
+7b5f916e-7460-46a8-869f-9ca2409ab6ed,Harifen,Harifen Riegel mit Aprikosenfüllung,125g,4.50   ,0.35,,Батончики с абрикосовой начинкой
+b8cbbcf5-7060-425a-b74e-e0ef55d98b7a,Harifen,Harifen Riegel mit Erdbeerfüllung,125g,4.50   ,0.3,,Батончики с клубничной начинкой
+78a5ca7d-168c-4360-bbd3-d7666bf25d25,Harifen,Harifen Saladitos ,120g,4.50   ,0.3,,Воздушные палочки фирмы Харифен (не сладкие)
+1e3413b0-daa5-4be1-850c-db21c435d701,Harifen,Harifen Saladitos Oregano,120g,4.50   ,0.3,,Воздушные палочки фирмы Харифен с Орегано (не сладкие)
+5452c85e-b97f-4350-a053-79092867d77d,Harifen,Harifen Saladitos Rosmarin,120g,4.50   ,0.3,,Воздушные палочки фирмы Харифенс Розмарином (не сладкие)
+a27959de-c5f4-47e1-9e97-5219ac5921b5,Milupa,lp-Drink (Getränkepulver),400g,16.35   ,4.0,,Малобелковое молоко фирмы Милупа
+c4a3d9b8-581f-4c92-b9d0-e32b518e59e4,Milupa,lp-drink choco,375g,15.80   ,4.0,,Малобелковое какао фирмы Милупа
+dd0f6ef2-2dc7-419c-91a8-c4006f230b8d,Milupa,lp-fruity Birne,300g,8.20   ,1.7,,Малобелковая каша со вкусом груши фирмы Милупы
+bc6607e8-27cc-4064-967d-3b1b999912c6,Milupa,lp-fruity Apfel-Banane,300g,8.20   ,1.8,,Малобелковая каша со вкусом яблоко банан фирмы Милупы
+6a9fd8d9-a55e-4807-8e26-1ca3b1c50ea0,Milupa,lp-flakes,375g,7.25   ,0.3,,Хлопья для завтрака фирмы Милупа
+c6947f82-4a81-4785-8b10-aff06c3818a9,Milupa,lp-ringlets,250g,4.70   ,1.0,,Колечки  шоколадные для завтрака фирмы Милупа
+6dd5897b-a852-4c05-9593-316f01bc9993,Loprofin,Flakes 'Erdbeer',375g,7.25   ,0.2,,Хлопья для завтрака со вкусом клубники
+5d0e9cbc-f710-407a-85f2-133abe9896eb,Loprofin,Flakes 'Schoko',375g,7.25   ,0.4,,Хлопья для завтрака со вкусом шоколада
+c0a92432-ec59-4709-b86c-af2a531b1f84,Loprofin,Frühstücksringel,375g,7.25   ,0.4,,Колечки для завтрака с нейтральным вкусом 
+1f69e31a-e414-449e-9590-578b979b194f,Loprofin,LOPROFIN PKU-Milch,5400ml,45.00   ,0.4,,Жидкое молоко упаковка 27 пачек
+d0bdd95a-b8eb-45e4-8922-75eb1274d668,Loprofin,LOPROFIN PKU-Milch,200ml,1.85   ,0.4,,"Жидкое молоко упаковка 1 пачка, порционное"
+a8532c51-fad9-4a34-bda9-0360e0f4e246,Loprofin,LOPROFIN Sno-Pro,5400ml,55.00   ,0.25,,Жидкое молоко упаковка 27 пачек
+cfa7a7e8-b501-4323-9a15-784240d498a4,Loprofin,LOPROFIN Sno-Pro,200ml,2.05   ,0.25,,"Жидкое молоко упаковка 1 пачка, порционное"
+84696864-81b5-442e-bb46-4761a1050ab3,Loprofin,Kartoffelpüree,130g,4.65   ,4.2,,Картофельное пюре
+9ae98e16-b5f6-4e37-9f00-eef990397526,Loprofin,Kartoffelpuffer,170g,4.65   ,1.9,,Картофельные драники
+f025a8c4-e6ec-4c39-a27e-35c582649588,Loprofin,Kartoffelknödel   ,200g,4.65   ,2.7,,Картофельные клецки
+cc43e1b8-04cb-4316-9712-9be08d92f079,Loprofin,statt Reis,500g,5.70   ,0.4,,Заменитель риса
+c22ae36c-2ea3-490a-bc87-b06793a322cc,Loprofin,Lasagne,250g,5.80   ,0.5,,Листы для лазаньи
+a87f06d5-397c-40b2-9cf5-7ad8a3d0bd1d,Loprofin,Spaghetti,500g,5.70   ,0.5,,Спагетти
+a31dd9ae-7e26-4d8b-a709-2beefee9e31b,Loprofin,Penne,500g,5.70   ,0.5,,Макароны Перья
+f2dcb72b-26ae-416a-a68a-8adc0397dd98,Loprofin,Fusilli,500g,5.70   ,0.5,,Макароны Спиральки
+04431c8b-7962-49ac-9d48-a6cdd6f109c4,Loprofin,Conchiglie,500g,5.70   ,0.4,,Макароны Ракушки
+809a8e62-3208-49e5-8590-0b294e724a1e,Loprofin,Animal Pasta,500g,5.70   ,0.5,,Макароны в форме зверюшек
+9a15b453-d195-43fc-bbdb-75f75f9d091d,Loprofin,Tagliatelle,250g,3.50   ,0.4,,Макароны Гнезда
+7e439055-6950-4e0a-87e7-a7286ad5edd4,Loprofin,Lisce,250g,3.50   ,0.4,,Макароны рожки
+7f6919ad-2772-45ec-ae6a-fb404037919a,Loprofin,Puntoni,250g,3.50   ,0.5,,Макароны в виде зерен
+be5db3e8-dd09-4595-a2bb-2f8fe9cdb304,Loprofin,Kräcker,150g,7.10   ,0.4,,Крекер
+a1035478-afef-473a-89f6-143af4642b29,Loprofin,Kräuter-Kräcker,150g,7.10   ,0.5,,Крекер с травками
+ffb7b93b-016f-4d0f-a59e-fe4273c1fb9b,Loprofin,statt Ei Loprofin,500g,22.80   ,0.3,,Заменитель яиц
+f2e11c1a-29dd-48e7-909d-d11be618d318,Loprofin,statt Eiklar,100g,29.30   ,0.0,,Заменитель белка
+893a651e-77bc-4463-aa47-df20a5c0e76b,Loprofin,DAMIN >eiweißarm<,500g,4.30   ,0.4,,Мука
+9d02f510-8164-47c9-b647-26bd702e406a,Loprofin,Cake Mix Schokoladen-Backmischung,500g,8.80   ,0.9,,Шоколадная смесь муки для выпечки
+c447180b-9735-470f-9420-6476a0aa10fc,Loprofin,Bratwurst Art,195g,5.50   ,5.3,,Колбаса для жарки
+dac4217a-fcd4-4f1a-944d-1ad773cc362f,Loprofin,"""Lyoner Art""",195g,5.50   ,4.6,,Колбаса типа докторской
+a8f97b7f-9a2e-442e-9499-e4fdad0f9966,Loprofin,"""Paprikalyoner Art""",195g,5.50   ,4.9,,Колбаса типа докторской с паприкой
+252fdaca-6946-4fde-8d5d-06dae9fa8adf,Loprofin,"""Fränkische Art""",222g,7.75   ,4.8,,Сосиски белые для жарки
+4204adaa-f0cf-434e-8f2e-dc317cde0aaa,Loprofin,"""Wiener Art""",204g,7.15   ,5.3,,Сосиски Венские
+27b1269a-743b-4edc-95ac-cc5cffb0f939,Metax,Sunny ,500g,4.10   ,0.4,,Мука. Содержит Витамины группы B и фолиевую кислоту 
+9aed905e-9e6f-4cc8-b4c5-979831ef1ba8,Metax,Sunny Plus,500g,4.80   ,1.4,,"Мука. Содержит Баластные в-ва, Витамины группы B и фолиевую кислоту "
+8ef8bba2-3ef8-4390-b640-70f8fe463a1e,Metax,GROV Mix Backmix2,500g,4.30   ,2.5,,"Мука. Содержит: Железо, Витамины группы B и фолиевую кислоту. Не содержит глютен."
+24609145-73ae-40ab-818b-15e0acbbaf7f,Metax,Crêpes-Mixx,360g,9.90   ,0.6,,"Блинная смесь. Содержит Баластные в-ва, Витамины группы B и фолиевую кислоту"
+46746049-aed0-4552-96ae-f5a6c9837102,Metax,MUFFIN-MIXX Zitrone,400g,9.00   ,0.17,,"Смесь для выпечки лимонных мафинов. Содержит Баластные в-ва, Витамины группы B и фолиевую кислоту"
+5146a8a1-36dd-4102-ac01-0e10701d0b45,Metax,MUFFIN-MIXX Blaubeere,400g,9.60   ,0.24,,"Смесь для выпечки мафинов с черникой. Содержит Баластные в-ва, Витамины группы B и фолиевую кислоту"
+6f510a20-6c8b-41d5-bc20-a76e422d9962,Metax,MUFFIN-MIXX Schoko,500g,9.60   ,0.6,,"Смесь для выпечки мафинов шоколадных. Содержит Баластные в-ва, Витамины группы B и фолиевую кислоту"
+4b6ccd7c-0568-4162-a705-367265934be7,Metax,MUFFIN-MIXX Zimt,420g,9.00   ,0.8,,"Смесь для выпечки мафинов с корицей. Содержит Баластные в-ва, Витамины группы B и фолиевую кислоту"
+b6b2f81b-f5d1-4e5c-bc18-bc41a4af5749,Metax,BALLASTOMAXX,750g,12.30   ,0.4,,Баластные вещества 
+f9a2e36e-5db5-4953-8931-fec9928d4552,Metax,KUCHEN-FEIN (eiweißarmer Ei-Ersatz),200g,6.85   ,0.4,,Заменитель яйца
+82dc2a1f-d569-4bcf-bfec-a2398502c9b7,Metax,Eiweissarmer Griess,300g,5.50   ,0.2,,Манка малобелковая
+67b2b5d6-1a04-476e-821f-4be1ece1a91f,Metax,Eiweissarmer Griess Premium,450g,8.05   ,0.2,,Манка малобелковая класса Премиум
+0ece0007-79b4-4850-a4c0-eb824d3245c8,Metax,"Reis, eiweißarm",500g,5.00   ,0.2,,Заменитель риса
+ce3a8232-c021-4bac-9d49-5502996b4793,Metax,Spaghetti gedreht,500g,4.45   ,0.25,,Спагетти крученные
+f7c44b42-5ddf-4874-9810-3dbdee9c3292,Metax,Muscheln,500g,5.25   ,0.2,,Макароны Ракушки
+805d1229-e574-4e86-8649-54fd09fc26f2,Metax,Spirellis,500g,4.45   ,0.25,,Макароны Спиральки
+8821c1cb-6f9b-42a7-84fe-562773a93044,Metax, Cous-Cous,500g,7.20   ,0.7,,Кус кус
+2cac559d-957b-4840-8c84-8d70d8eb4dfd,Metax,Spaghetti plus premium,500g,5.40   ,0.5,,Спагетти класса премиум
+c381bd67-77ff-4db7-a48f-c3861561c500,Metax,Penne plus premium,500g,4.60   ,0.5,,Перья класса премиум
+6c312d5d-cac6-4884-88c9-26aa7992a65c,Metax,Fusilli plus premium,500g,4.60   ,0.5,,Макароны спиральки класса премиум
+e6b2d063-6155-4191-b574-a15b140b65ec,Metax,Risi d'oro,500g,4.60   ,0.2,,Заменитель риса класса препиум
+7f52eaa0-1d06-4698-8ff4-bba4eb3dcc18,Metax,X-POT Asia,60g,4.90   ,0.4,,"Макароны быстрого приготовления, залил и готово! Со вкусом курицы, в кисло-сладком соусе"
+3f8bea9b-6c54-4824-99e6-a2103f884375,Metax,X-POT Italia,60g,4.90   ,0.24,,"Макароны быстрого приготовления, залил и готово! Со вкусом говядины и помидорами"
+73479d32-590b-4cac-86c8-c56249953399,Metax,CHEASY mild,200g,8.75   ,4.4,,"Сыр ""мягкий"""
+c69303fc-187e-4187-a9ad-d30c186a84ae,Metax,CHEASY kreuter,200g,9.50   ,4.0,,"Сыр ""мягкий с травками"""
+80cf4f86-e909-48a1-a22b-5f277ec6ef7c,Metax,Harifen PKU-Milch,4800ml,40.25   ,0.3,,Молоко харифен 24 пачек*200 мл 
+91377805-ebea-4470-a2d7-3d3564f264dc,Metax,Harifen PKU-Milch,200ml,1.90   ,0.3,,Молоко харифен
+e6e1925b-3b91-4f1f-b2bc-172aaccc2d6b,Metax,SCHOKOMAXX,500g,15.90   ,2.3,,Какао
+162ebe77-ddd4-4ce3-858d-9749384e54d8,Metax,JoguMaxx,400g,19.20   ,0.5,,Заменитель Йогурта
+f733257a-debb-44b2-a349-03f13e11da8f,Metax,Schoxxi Taffel,100g,4.10   ,1.5,,Шоколадная плитка 
+dd6fa04a-6f83-43fd-ac88-10f448c96dd3,Metax,Schoxxi Mini-Tafel ,60g,2.60   ,1.4,,Шоколадная маленькая плитка 
+be1e9ec1-74ad-4b16-a291-a4da129e184a,Metax,Schoxxi Mini-Tafel Knister,60g,2.60   ,1.5,,Шоколадная маленькая плитка с потрескивающимся сахаром 
+9b3bee36-7eca-4f85-8235-3543be60a72c,Metax,Schoxxi Weihnachtsmann,80g,6.50   ,1.5,,Шоколадные фигурки Дедмороз (сезонный продукт)
+fb1e4bd9-ba8e-40b5-beac-b48d0b103ba5,Metax,Schoxxi Mini-Tafel Wintertraum,60g,2.60   ,1.5,,"Шоколадная плитка ""Новогодняя мечта"" с корицей, гвоздикой, анисом."
+dfb015a7-8f32-4eea-88e8-26b011684fef,Metax,Schoxxi Weihnachts-Minis,100g,4.60   ,1.5,,Шоколадные мини фигурки с новогодней тематикой
+d9f258da-f512-4577-b82f-d7d9daa72040,Metax,Adventskalender ,222g,15.30   ,1.5,,Рождественский шоколадный календарь (сезонный продукт)
+7e5f4f76-cdcb-4ad2-897e-2ab0d12bd260,Metax,Salzstangen,70g,3.30   ,0.7,,Соленые палочки
+e08baf9d-9d63-4c22-987e-08d5f41f898c,Metax,Zitronenwaffel,100g,4.05   ,"<0,5",,Лимонные вафли 
+acd84a8b-2101-4b3d-bdfe-f730901601c6,Metax,mini-Grissini Natur,120g,4.35   ,0.4,,"Гриссини/ Хлебные палочки, Натуральный вкус"
+2eb2970d-272b-48ae-8ea6-741bb0c46dfe,Metax,mini-Grissini Oregano,120g,4.35   ,0.4,,Гриссини/ Хлебные палочки с Орегано 
+8df7d64c-e9ee-47c9-9612-adbb8ef7ce14,Metax,mini-Grissini Rosmarin,120g,4.35   ,0.4,,Гриссини/ Хлебные палочки с Розмарином
+7a393688-d15b-48b3-add8-32be0c43f5d9,Metax,Waffelbrot,100g,3.95   ,"<0,5",,"Вафельные листы, подходят для бутербродов и приготовления тортов,  без глютена"
+debe22d4-6e9e-4116-8d92-52bea38b2d76,Metax,Crunchy Pops Honig,250g,5.70   ,0.4,,Хлопья медовые в виде шариков для завтрака
+e7b53c70-0fd6-4bb2-a5eb-3c3f0335db25,Metax,Crunchy Pops Schoko,250g,5.70   ,0.4,,Хлопья шоколадные в виде шариков для завтрака
+c1ab3d72-3d0b-4d61-8f91-c549380c3251,PROMIN,"PROMIN, bunte Buchstaben",500g,6.00   ,0.15,,Макароны цветные  буковки
+8afd3eff-981a-4f31-9c2d-9e0ec270823c,PROMIN,"PROMIN, bunte Muschel",500g,6.00   ,0.15,,Макароны цветные  ракушки
+70e123cd-1e93-4b4f-a711-be1cc41957cd,PROMIN,"PROMIN, bunte Spiralnudel",500g,6.00   ,0.15,,Макароны цветные  спиральки
+afded13e-f868-4b00-b65b-eb2d4f187792,PROMIN,"PROMIN, Cous-Cous",500g,6.60   ,0.15,,Кус кус
+ef8ffac9-aba4-4730-bd8c-298b1907e94b,PROMIN,"PROMIN, Pasta Spagetti",500g,5.00   ,0.15,,Вермишель суповая
+08cb4156-14ba-45c3-a2a1-9900e514b64c,PROMIN,"PROMIN, Pasta Spagetti Plus",500g,5.00   ,0.13,,Вермишель суповая с балластными веществами
+bba205b8-ec52-4a23-8397-798abf1238fa,PROMIN,Burgermix,248g,20.70   ,0.8,,Сухая смесь для изготовления котлет
+ff15fda6-fe70-4a06-9095-94cc03261dd0,PROMIN,Burgermix,124g,10.50   ,0.8,,Сухая смесь для изготовления котлет
+44fc5fc4-ba55-47c9-805e-7cac9b3a8a2b,PROMIN,Burgermix mit Lamm geschmack,248g,19.60   ,0.8,,Сухая смесь для котлет со вкусом баранины и мяты
+3db64679-7b0a-492d-b72c-97adb7042f53,PROMIN,Sausagemix Original,120g,9.80   ,0.9,,Сухая смесь для изготовления сосисок
+a79a7177-02e5-43c7-8c77-b3d20871fbf5,PROMIN,Sausagemix Tomaten-Basilikum,120g,9.80   ,0.9,,Сухая смесь для изготовления сосисок со вкусом томат-базилик
+0310eefd-e897-42de-8d9d-ffe772afae5a,PROMIN,"Pasta in Tomaten, Paprika--Kreuter Sauce ",288g,10.20   ,0.7,,Макароны в томатно-паприковом соусе с травами
+0be64de3-c597-49cf-a223-5eae4e524d96,PROMIN,Pasta in Brokoli-Käse Sauce ,264g,10.20   ,0.9,,Макароны в сырном соусе с брокколи
+1c877596-ce49-4465-b3c7-e0d974e275ac,PROMIN,Käse Sauce ,225g,5.00   ,0.8,,Сырный соус
+60f73023-3b46-451e-8059-7cacd0b819e8,PROMIN,Mac & Cheese Bites Pack,500g,6.70   ,,,Сырные шарики
+f9cf37ee-2f0a-4cbf-b16e-0fcaead4ac18,PROMIN,"PROMIN, Heiße Frühstück Original",336g,12.00   ,0.1,,"Горячий завтрак, вкус Ваниль, 6 пакетиков* 56 гр, просто размешать с горячей водой  "
+34f9ee9f-27a4-434a-941d-96dd0ecc0192,PROMIN,"PROMIN, Heiße Frühstück Schoko",336g,12.00   ,0.3,,"Горячий завтрак, вкус Шоколад, 6 пакетиков* 57 гр, просто размешать с горячей водой  "
+7382513b-c055-4f31-aca1-e82bf65a46a3,PROMIN,"PROMIN, Heiße Frühstück Banana",336g,12.00   ,0.1,,"Горячий завтрак, вкус Банан 6 пакетиков* 57 гр, просто размешать с горячей водой  "
+942be163-21df-4949-8634-720a784951c4,PROMIN,"PROMIN, Heiße Frühstück Apfel-Zimt",336g,12.00   ,0.1,,"Горячий завтрак, вкус Яблоко корица, 6 пакетиков* 57 гр, просто размешать с горячей водой  "
+9a9ecb14-9364-4e5a-a9ee-712c403a05dc,PROMIN,"PROMIN, Pudding Vanilla",276g,5.90   ,0.1,,"Рисовый пуддинг, эдентичен рисовой каше, Ваниль, 4 пакетиков* 69 гр"
+06195278-8d30-40e3-aeee-48a8c647d252,PROMIN,"PROMIN, Pudding Apfel",276g,5.90   ,0.1,,"Рисовый пуддинг, эдентичен рисовой каше, Яблоко, 4 пакетиков* 69 гр"
+818c2055-330b-4d9a-be34-58e755cd78dc,PROMIN,"PROMIN, Pudding Erdbeere ",276g,5.90   ,0.2,,"Рисовый пуддинг, эдентичен рисовой каше, Клубника,  4 пакетиков* 69 гр"
+1f6422ae-c6c6-41d1-b8a6-d4abee6055e6,PROMIN,"PROMIN, Pudding Banana",276g,5.90   ,0.1,,"Рисовый пуддинг, эдентичен рисовой каше, Банан,  4 пакетиков* 69 гр"
+c4b78e0c-1069-4395-8559-29618b56634f,Schott,Kartoffelwürstchen  6 St,230g,9.00   ,4.9,,Сосиски фирмы В.Шотт 6 штук
+7e046d95-5c66-459b-95cd-e4f650495eef,Schott,Kartoffelwurst Konserve PKU,200g,6.50   ,5.3,,Картофельная колбаса 
+4db5f5b8-c3a4-4614-ad6e-75b8501f60ad,Schott,Kartoffelwurst mit Paprikastr.Konserve PKU,200g,6.00   ,5.8,,Картофельная колбаса с паприкой 
+92b0e06c-c476-4f53-b337-fb5e53ab506c,Schott,Leberwurst Konserve PKU,200g,6.00   ,7.9,,Печеночная колбаса
+aa69e3bc-57b1-413d-b42e-9292a6d480ca,Schott,Blutwurst Konserve PKU,200g,6.00   ,7.1,,Кровяная колбаса
+44247186-0448-4ec3-9301-567ad8d321bd,Huber,Schokovani,80g,4.30   ,0.7,,Шоколад 
+e2bbba63-3046-483d-becf-ddab94b7826c,Huber,Kokosina,80g,4.60   ,1.6,,Шоколад с кокосовой стружкой
+d556b587-110d-4d02-b69f-2768374f9de8,Huber,Knusperkrossi,80g,4.60   ,2.0,,Шоколад с хлопьями
+0775200f-3ca0-4fa5-94f8-d064c083bc33,Huber,Cookilade,75g,6.10   ,1.1,,Шоколад с кусочками печенья
+9f88b57d-39bb-40f2-a7bc-147d44d822d8,Huber,Schoko-Lutscher,80g,5.20   ,1.1,,Шоколадные фигурки на палочке
+571e7975-a7cf-444d-87d9-ae6d1b27c783,Huber,Katzenzungen,80g,5.20   ,1.1,,"Шоколад ""кискины язычки"""
+5f609f25-92fe-414d-a122-6d10d05853b7,Huber,Schokoladen-Meeresfrüchte,80g,6.00   ,1.1,,"Шоколад ""морские фигурки"""
+39ebbf4b-aa2b-4618-86b4-83f0546225ee,Huber,Weinachtsschokolade,75g,5.50   ,1.1,,Шоколад с корицей и вкусом Рождества
+f6afa966-489a-44ab-9ba2-18d35ab6ff95,Huber,Nikolaus-Lutscher,80g,5.20   ,1.1,,Шоколадные фигурки Деда Мороза на палочке (сезонный артикль)
+5689ee2a-855f-4254-baaf-42df3bc48f2f,Huber,Schokoweihnachtssterne,80g,5.20   ,1.1,,Шоколадные Звездочки (сезонный артикль)
+a57ec49f-ea82-48a1-a8ae-70eb4ab5ba5b,Huber,Schoko-Weihnachtsmann,170g,9.85   ,1.1,,Шоколадный Дед Мороз (сезонный артикль)
+a8a5016e-6ee7-4cd6-b8a6-f1b3ae82f3ee,Huber,Weihnachtskalender,100g,9.85   ,1.1,,Шоколадный календарь (сезонный артикль)
+bdd08e7f-123e-48f1-8a67-bd9aa62d151a,Huber,Schoko-Eier,50g,4.00   ,1.1,,Шоколадные Пасхальные яйца (сезонный артикль) 
+a9f54ffa-353b-44c5-8bf4-0a058ae029bd,Huber,Schoko-Osterhase,140g,9.45   ,1.1,,Шоколадный Пасхальный Заяц (сезонный артикль)
+f4bcb55c-efc9-4498-a183-1dfa639ea81d,Huber,Lebkuchennikolaus,175g,8.00   ,0.3,,Шоколадный пряничный Дед Мороз
+1fa51ed0-b56e-4e4f-8283-e68b7e12a076,Huber,Lebkuchen,200g,9.85   ,0.3,,Шоколадный пряник
+01dc4df9-d960-49a2-ab0e-4a692319eca8,Huber,Lebkuchenplätzchen,200g,8.60   ,0.3,,Шоколадно- пряничное печенье
+91d16b3c-be91-4680-9035-fb9ce8a085dc,Huber,Mürbteigtortelettes,250g,10.45   ,1.0,,Тарталетки в шокоглазури
+ab316328-982b-4f9d-9e8b-e44eee4ecdb7,Huber,Sandspritzgebäck,200g,9.20   ,1.0,,Песочное печенье типа курабье
+553303ca-6684-44e4-ae98-1af27539dd3a,Huber,Spitzbuben,250g,10.45   ,1.0,,Печенье двойное с повидлом
+3a6cad9c-1293-4753-8103-4bade99d87ff,Huber,Spekulatius,250g,8.60   ,1.0,,Печенье песочное с шоколадом
+82da770f-6711-4c01-8db1-12ba00208443,Huber,Teegebäck/Weinachtsmishung,200g,11.70   ,0.6,,Печенье ассорти 
+ba874587-f248-43ce-be7e-91c4687c8889,Huber,Filinchen,75g,2.49   ,0.5,,"Хлебцы хрустящие, не воздушные"
+8ba51243-7da6-45db-8c49-794eaf6ba69a,Huber,Salzsticks,70g,3.70   ,0.7,,Соленые палочки
+77221f0b-5375-4ab8-a303-d6365df107e3,Huber,Joghurt-Erstzpulver,360g,12.60   ,0.0,,Заменитель йогурта
+6a64ef29-abf1-4b59-a3ee-dafdab727f30,Huber,Grundmehlmischung,1000g,10.15   ,0.3,,Мука
+9a1b5ab3-7043-4527-9c0d-1555c11d616b,Huber,Biskuitmehl-Mischung,1000g,10.15   ,0.5,,Бисквитная мука
+320f6692-13bb-4a66-9f47-856d62b3960e,Huber,Oberpfälzer Molkebrotmischung,500g,7.99   ,0.5,,"Мука для ""кислого"" теста, очень хороша для пиццы"
+1396d82c-eefb-40b0-802d-fbe51a7dd7a6,Huber,Paniermehl,250g,6.15   ,0.5,,Панировочные сухари
+c89c5ba6-d9cb-479e-9608-a5d968b84539,Huber,Bio-Gummibären,100g,2.90   ,"<0,2",,Желейные конфеты Био
+8aefa89b-1d21-4d7b-b13f-6a5e51585997,Huber,Bio-Saure Würmer,100g,2.90   ,"<0,2",,Желейные конфеты с кислой посыпкой Био
+6ceae57b-73fc-4c67-a0ad-4216d2664221,Käse Alternative / Сырные продукты: Wilmersburger ,Wilmersburger Käse Altr. Classik,150g,3.90   ,0.0,,Сыр пластинами класический
+996ca96d-9e1e-4c0b-9fdf-8f47786814d4,Käse Alternative / Сырные продукты: Wilmersburger ,Wilmersburger Käse Altr.  Kreuter,150g,3.90   ,0.0,,Сыр пластинами с травами
+bc462624-0562-4970-a7dc-727863dc9640,Käse Alternative / Сырные продукты: Wilmersburger ,Wilmersburger Käse Altr. Tomat Basilikum,150g,3.90   ,0.5,,Сыр пластинами с томатом и базиликом
+6a943c56-0202-4d4d-8f4a-9b8f643d53d7,Käse Alternative / Сырные продукты: Wilmersburger ,Wilmersburger Käse Altr. Paprika ,150g,3.90   ,"<0,5",,Сыр пластинами с паприкой
+5cc28211-12a4-4ee9-9c3b-8cd9c023b816,Käse Alternative / Сырные продукты: Wilmersburger ,Wilmersburger Käse Altr.  Queen-Style,150g,3.90   ,0.0,,"Сыр пластинами ""чеддер"""
+1e16c36b-16a2-4700-a782-6bb2d25b2058,Käse Alternative / Сырные продукты: Wilmersburger ,Wilmersburger Käse Altr.  Pilze,150g,3.90   ,"<0,5",,Сыр пластинами с грибами
+992db9b1-8241-4b8a-9d62-037a192abfc4,Käse Alternative / Сырные продукты: Wilmersburger ,Wilmersburger Käse Altr. Würzig,150g,3.90   ,0.0,,Сыр пластинами пикантный
+e6106641-d317-4745-b307-3086118d2c93,Käse Alternative / Сырные продукты: Wilmersburger ,Wilmersburger Käse Altr.  Chili,150g,3.90   ,"<0,5",,Сыр пластинами с чили
+49b8f298-4d90-4633-b409-ddece1de751d,Käse Alternative / Сырные продукты: Wilmersburger ,"Wilmersburger Käse Altrn, gerieben",250g,4.50   ,0.0,,Сыр тертый
+c40abdb2-14f3-480f-929f-227af7aa6dfe,Käse Alternative / Сырные продукты: Wilmersburger ,"Wilmersburger Käse Altrn, gerieben",1000g,14.50   ,0.0,,Сыр тертый
+327a24ee-2c92-4cac-87a5-98f7adaa83a5,Käse Alternative / Сырные продукты: Wilmersburger ,Wilmersburger Käse Altr. Classik,300g,6.80   ,0.0,,"Сыр брусок ""Класический"""
+1ba91325-8442-41d7-ab0c-0424704c91f5,Käse Alternative / Сырные продукты: Wilmersburger ,Wilmersburger Käse Altr.  Queen-Style,300g,6.80   ,0.0,,"Сыр брусок ""Чеддер"""
+75304367-92ee-427f-8fb1-786ec646560c,Käse Alternative / Сырные продукты: Wilmersburger ,Wilmersburger Käse Altr. Würzig,300g,6.80   ,0.0,,"Сыр брусок ""Пикантный"""
+aa32e94f-e45b-4182-be50-a06138db8d5d,Käse Alternative / Сырные продукты: Bedda,Bedda Scheiben Classik,150g,3.90   ,0.0,,"Сыр пластинами класический, содержит кальций и витамин B12"
+5ebd734e-8dd7-45ab-9468-bd09af3b665a,Käse Alternative / Сырные продукты: Bedda,Bedda Scheiben Pfeffer,150g,3.90   ,0.0,,"Сыр пластинами с перцем, содержит кальций и витамин B12"
+bca9c543-10ba-4ffa-b5d7-7564080b2443,Käse Alternative / Сырные продукты: Bedda,Bedda Scheiben British Style,150g,3.90   ,0.0,,"Сыр пластинами ""чеддер"", содержит кальций и витамин B12"
+492c46cf-49ed-4cca-9823-8ca6f078b03a,Käse Alternative / Сырные продукты: Bedda,Bedda Scheiben Zicke,150g,3.90   ,0.0,,"Сыр пластинами ""Козий"", содержит кальций и витамин B12"
+a407d3c3-5221-47b6-bdf1-abe581131950,Käse Alternative / Сырные продукты: Bedda,Bedda Scheiben Bockshornklee,150g,3.90   ,0.0,,"Сыр пластинами  ""Маасдамер"", содержит кальций и витамин B12"
+7b4d82f4-dd67-4341-b87e-99a420925fe1,Käse Alternative / Сырные продукты: Bedda,Bedda Scheiben zum Schmelzen,180g,4.30   ,1.3,,"Сыр пластинами  ""раклет"", отлично плавится, содержит кальций и витамин B12"
+9ce68276-0cc8-443b-bce4-5280c002ec76,Käse Alternative / Сырные продукты: Bedda,Bedda Reiberei ,150g,3.90   ,1.3,,"Сыр тертый, содержит кальций и витамин B12"
+19b2b64c-8539-4b58-8d56-09b64a74b3a0,Käse Alternative / Сырные продукты: Bedda,Bedda Reiberei ,1000g,14.30   ,1.3,,"Сыр тертый, содержит кальций и витамин B12"
+f5cbbc36-64fb-4cb1-887f-1211598d486b,Käse Alternative / Сырные продукты: Bedda,Bedda Granvegano,100g,3.50   ,0.7,,"Сыр тертый ""пармезан"", содержит кальций и витамин B12"
+48d55afd-7b97-40ac-b8ad-e552f66f8bbe,Käse Alternative / Сырные продукты: Simply V,Simply Natur,150g,3.90   ,"<0,5",,Сыр пластинами класический
+45228b79-0a28-4e3a-a4a9-75dac96704d6,Käse Alternative / Сырные продукты: Simply V,Simply Nussig,150g,3.90   ,"<0,5",,"Сыр пластинами, ореховый вкус"
+9071f44f-6185-47b8-a776-403114a8172c,Käse Alternative / Сырные продукты: Simply V,Simply Burger Scheiben,150g,4.90   ,"<0,5",,"Сыр пластинами, для бургера хорошо плавится"
+fc3758fd-8050-45c5-9301-f307c9aa5384,Käse Alternative / Сырные продукты: Simply V,Simply Würzige ,150g,3.90   ,0.8,,Сыр пластинами пикантный
+664fa733-e568-4c79-bcb1-9f2cac771fa4,Käse Alternative / Сырные продукты: Simply V,Simply Veganer Reibegenus Natur,180g,3.90   ,3.2,,Сыр тертый
+cd80d2ff-2edf-44c4-b648-194077a76f03,Käse Alternative / Сырные продукты: Simply V,Simply Grill Herb ,150g,3.90   ,5.7,,"Сыр ""для гриля"" с травами"
+7af7ef68-eb2c-4b6d-9124-d157df314975,Käse Alternative / Сырные продукты: Simply V,Simply Grill Tomato,150g,3.90   ,5.7,,"Сыр ""для гриля"" с помидорами"
+2e67ddc2-c395-4dbc-846e-ed84b26403c9,Käse Alternative / Сырные продукты: Violife,"VioLife, Gouda",140g,3.70   ,0.0,,Сыр пластинами Гауда
+f5f2acef-3d53-4fff-8398-e39101ca9e41,Käse Alternative / Сырные продукты: Violife,"VioLife, Mozarella",140g,3.70   ,0.0,,"Сыр пластинами ""Моцарелла"""
+f9edd203-bbe4-4d1a-b18f-7df864101528,Käse Alternative / Сырные продукты: Violife,"VioLife, Raucharoma",140g,3.70   ,0.0,,"Сыр пластинами ""Копченный"""
+0775c40d-1fa9-4384-b792-7cc9c212fb25,Käse Alternative / Сырные продукты: Violife,"VioLife, Cheddar",140g,3.70   ,0.0,,"Сыр пластинами ""чеддер"""
+63bd4a87-972c-41f2-9d7f-8b6345f43073,Käse Alternative / Сырные продукты: Violife,"VioLife, Emmentaler",140g,3.70   ,0.0,,"Сыр пластинами ""Масдамер"""
+04fcad8c-b6f6-4a92-940b-873857961999,Käse Alternative / Сырные продукты: Violife,"VioLife, gerieben",1000g,15.99   ,0.0,,Сыр тертый
+507f4614-b0d4-4bb0-9abb-d02dafd8826b,Käse Alternative / Сырные продукты: Violife,"VioLife, gerieben",200g,3.90   ,0.0,,Сыр тертый
+4e6f1aff-00ae-4504-aac6-fcd1daa76af6,Käse Alternative / Сырные продукты: Violife,"VioLife, Creamy Original",150g,3.80   ,0.5,,"Сыр намазка ""натуральный вкус"""
+94e51dbb-c1f3-4daf-ae42-1885a50a81ee,Käse Alternative / Сырные продукты: Violife,"VioLife, Creamy with herbs",150g,3.80   ,0.7,,Сыр намазка с травами
+b882745a-4926-4f20-87b2-e1c87079f854,Käse Alternative / Сырные продукты: Violife,"VioLife, Block Cheddar",400g,6.90   ,0.0,,"Сыр брусок ""Чеддер"""
+5a28375c-f443-469d-8674-1856ee44ded6,Käse Alternative / Сырные продукты: Violife,"VioLife, Block Mozarella",400g,6.90   ,0.0,,"Сыр брусок ""Моцарелла"""
+e716fd5b-d464-46b4-ab6c-16978ed36f80,Käse Alternative / Сырные продукты: Violife,"VioLife, Block ""For Pizza"" ",400g,6.90   ,0.0,,"Сыр брусок ""Для пиццы """
+c107da80-b1ca-49b6-b9bb-f13d48a38831,Käse Alternative / Сырные продукты: Violife,"VioLife, Block Prosociano",150g,6.50   ,1.6,,"Сыр брусок ""Пармезан"""
+53659856-6951-4492-84e6-4b739e61ab91,Käse Alternative / Сырные продукты: Violife,"VioLife, Greek White",160g,4.70   ,0.7,,"Сыр ""Фета"""
+5b73c048-1a24-4f1d-817d-9cf3bdf45fac,Käse Alternative / Сырные продукты: Violife,"VioLife, Mediterranean",160g,4.70   ,0.7,,"Сыр ""для гриля"""
+e3a8501d-e46e-457f-a5c2-037621a4cf17,Käse Alternative / Сырные продукты: Violife,"VioLife, Le Rond",150g,5.20   ,0.0,,Сыр Камамбер
+8e443fbc-69b8-4d8b-86c0-5ad3f34fab40,Käse Alternative / Сырные продукты: Violife,"VioLife, Greek White",1380g,18.00   ,0.7,,"Сыр ""Фета"""
+a1f8b481-5910-4c2b-ac34-bd94e2417ecc,Käse Alternative / Сырные продукты: Violife,"VioLife, Block Mozarella",2500g,32.50   ,0.0,,"Сыр брусок ""Моцарелла"""
+848ab100-075d-45a3-958b-e5f1130dc051,Käse Alternative / Сырные продукты: Violife,"VioLife, Cocospread",150g,3.90   ,1.5,,Шоколадная паста
+2eb07d77-092a-40b5-ab9d-c8df0ae58859,Käse Alternative / Сырные продукты: Violife,Jeezo Swiss,400g,8.60   ,,,"Сыр по типу швейцарского, куском "
+404c6a96-65c6-400e-8c5f-2859cf38bc74,Käse Alternative / Сырные продукты: Violife,Jeezo Celtic,400g,8.60   ,,,Сыр куском 
+fa4ed65b-7443-4d12-8789-b1944f27b9b7,Käse Alternative / Сырные продукты: Violife,Jeeso Santi Block,400g,8.60   ,,,Сыр куском 
+0cef075e-1142-46bb-8a2f-ad32e2b62c24,Свежая продукция,Schott Kartoffelwürstchen,400g,10.50   ,,,Сосиски свежие 10 шт в упаковке 
+da9554c7-5207-455b-af45-80bcb48438a8,Свежая продукция,Veggi- Fleischwurst-Stangenwurst,200g,4.90   ,8.0,,"Колбаса вареная типа докторской ""мясная"", палка (пересылка возможна только в холодное время!)"
+6f66ac2c-0ee0-4b61-9b1f-4d377c5d0361,Свежая продукция, Vegane-Schinken-Stangenwurst,175g,4.50   ,7.9,,"Колбаса типа докторской "" мясная""(пересылка возможна только в холодное время!)"
+ed5a4863-eea4-4a2d-8943-df0a746beaf5,Свежая продукция,Veggane Fleischwurst,175g,4.50   ,4.0,,"Колбаса типа докторской "" мясная""(пересылка возможна только в холодное время!)"
+6fd37eca-67f7-4116-aa32-9b7ef9afed13,Свежая продукция,Vegganer Raucherlaxx,100g,3.50   ,0.7,,"""Лосось веганский копченый"" (пересылка возможна только в холодное время!)"
+43c80956-c854-424c-9233-cb1f4e285593,Свежая продукция, Veg. Schinken Spicker Mortadella,80g,2.70   ,2.2,,Лионская колбаса в нарезке (пересылка возможна только в холодное время!)
+c8e774cf-8d8b-4ebd-b7a4-673372b0fc46,Свежая продукция, Veg. Schinken Spicker Paprika,80g,2.70   ,7.8,,Лионская колбаса в нарезке с паприкой (пересылка возможна только в холодное время!)
+504ed8d2-ae36-4c63-a442-56b239eb240c,Свежая продукция, Veg. Schinken Spicker Schnittlauch,80g,2.70   ,7.8,,Лионская колбаса в нарезке с зеленым луком (пересылка возможна только в холодное время!)
+810a2507-66bf-4db5-8d33-ed84daa5d3a0,Свежая продукция,Veg. Schinken Spicker Grillgemüse,80g,2.70   ,4.7,,Мотаделла колбаса в нарезке с овощами гриль (пересылка возможна только в холодное время!)
+179ff365-e80f-4af9-87f5-9a893206ced0,Свежая продукция,Veg. Schinken Spicker Salami,80g,2.70   ,7.8,,Салями колбаса в нарезке (пересылка возможна только в холодное время!)
+bbfd5719-62bc-437a-a349-f0f460c0e509,Свежая продукция,Vegetarische Pommersche Schnittlauch,125g,3.50   ,7.2,,Паштет с зеленым луком
+4aa3915c-4e7b-4522-9270-fbd55b5d683b,Свежая продукция,Vegetarische Pommersche Fein,100g,3.00   ,2.4,,"Паштет ""нежный"""
+b0d7251f-d4a5-45f6-80e7-63ee96f7503c,Свежая продукция,Bio Burger Gemüse,200g,3.90   ,5.9,,Готовая котлета/бургер с овощами
+b9e97c9f-ba41-4a11-975b-91d598c1e0a0,Свежая продукция,Bio Burger Grünkern,200g,3.90   ,5.9,,Готовая котлета/бургер ростками
+07dc443c-4614-4428-9ae6-8c225cd61fed,Taranis,Taranis Burger ,248g,19.50   ,,,Смесь для котлет фирмы Таранис
+1e5e2f9d-5bc8-4f10-adc6-04be9e063f6b,Taranis,Taranis Fisch-Stäbchen-Ersatz,248g,19.50   ,,,Смесь для рыбных палочек фирмы Таранис
+4a839917-d3f4-402f-9999-0f17283f161e,Taranis,Taranis Dalia PKU-Milch,4800g,43.00   ,,,Жидкое молоко упаковка 24 пачек
+77ff737a-8669-423c-b276-84e4e28dc1d9,Taranis,Taranis Vanille-Schokoladen Dessert,95g,6.45   ,,,Ванильно-шоколадный десерт фирмы Таранис
+e4e2f65e-9116-43b2-9bb7-e6afa553680e,Taranis,Taranis Dessert Drink - Vanille,400g,19.40   ,,,Ванильный десерт -напиток фирмы Таранис
+bc39b719-196c-4c42-8ef9-69e7654d5dad,Taranis,Taranis Dessert Drink - Erdbeer,400g,19.40   ,,,Клубничный десерт -напиток фирмы Таранис
+5e15f0ed-8da7-464b-91f9-3fe34971bf1f,Taranis,Taranies Crepes und Waffeln,300g,10.40   ,,,Смесь для вафель фирмы Таранис
+281beacc-90fc-4715-b0e2-240ede779103,Taranis,Taranies Cake Zitrone,240g,7.95   ,,,Кексы лимонные
+74b1b7c0-6c0c-48a9-9647-cc49f5c6e2bf,Taranis,Taranies Cake Aprikosen,240g,7.95   ,,,Кексы абрикосовые
+337152a4-410b-4a22-9e78-d1c421de28b4,Разное,Chicken nugget eiweissarm,680g,47.00   ,,,"Смесь для ""куриных"" котлет  производство Америка"
+fcbdd8cd-1028-48d7-93ce-c208c24b0120,Разное,amlet  eiweissarm,454g,32.00   ,,,Сместь для омлета производство Америка
+975fbfe1-f774-447e-b4c5-9882a7bc9c6b,Разное,Kaba Vanille,400g,3.90   ,0.0,,Напиток со вкусом Ваниль (порошек)
+6de05c5c-2bd8-4567-8ace-12200a4a2a0c,Разное,Kaba Erdbeer,400g,3.90   ,0.0,,Напиток со вкусом Клубники (порошек)
+17f53601-e858-4fc5-a8e2-5151e64c86ff,Разное,Kaba Himbeer,400g,3.90   ,0.0,,Напиток со вкусом Малины (порошек)
+27c4c17e-69cb-4810-b749-16cb84e1203d,Разное,Kaba Banan,400g,3.90   ,0.0,,Напиток со вкусом Банана (порошек)
+bba216f5-beaa-4c16-9406-53b8aa6d5567,Разное,Kaba Kakao,400g,3.90   ,4.7,,Напиток со вкусом Какао (порошек)
+7bebe582-991f-4884-9381-716185a2430d,Разное,Madame Loulou Ginger Bread,400g,3.90   ,1.0,,Смесь для выпечки пряников производство Италия
+618cc502-700f-4ffc-8ba1-122fefe4e3bc,Разное,Karamell Brownie Mix,400g,5.30   ,,,Смесь для карамельного брауни (пирога) 
+cbe8411c-2ed3-4cd5-87d9-f7848b081b7b,Разное,Schoko Brownie Mix,400g,5.30   ,3.4,1.0,Смесь для шоколадного брауни (пирога) 
+29104222-ae65-4b0f-b6ac-e62e430e8f89,Разное,American Panecake Mix,450g,4.50   ,2.5,,Смесь для американского панкейка 
+dfa099ae-5333-41ad-ae39-41b7f7211793,Разное,Hubba Buba,60g,2.00   ,0.0,,"Жевачки с разными вкусами, малина, клубника, кола и красящие язык"
+f02db246-9a46-4479-b8be-c0c1f3a5f376,Разное,Tubble Gum ,35g,1.30   ,0.0,,"Жевачки в тюбиках с разными вкусами, малина, вишня, кола и красящие язык"
+da9b6fff-bc79-4c7b-be66-35a77686b5bc,Разное,Fini Burger Gum,80g,1.90   ,0.0,,Жевачка с жидкой начинкой в виде бургеров
+cacce0d5-3e51-414a-a57c-b1d87116c690,Разное,Gnocchi Alnavit,250g,3.15   ,1.6,,"Полуфабрикат Ньокки, без глютена "
+cbda40fd-289d-4886-a7fe-534da4a3f92e,Разное,Jackfruit,200g,4.50   ,1.3,,Джекфрукт кусочками 
+18dd7f20-de72-44b7-be3d-0046e243272c,Разное,Jackfruit Curry,200g,4.50   ,1.3,,Джекфрукт в соусе карри 
+aaac1bf3-f95f-48ac-adcd-45fb9c338944,Разное,Jackfruit Gulash,200g,4.50   ,1.3,,Джекфрукт в соусе гуляш
+b3b233e0-6aa5-483e-92cd-f556b495d049,Разное,Jackfruit BBQ,200g,4.50   ,1.3,,Джекфрукт в соусе барбекю
+4f99cdd8-fd36-42a0-b8b5-5547a340b828,Разное,Biovegan Cinnamon Rolls,450g,5.20   ,2.6,,Смесь для изготовления булочек с корицей
+053c3be7-25b7-49ce-957c-33cf33b661ec,Разное,Mais Tortilla ,180g,3.50   ,4.5,0.7,Тортилья
+dc640215-911d-4798-b809-0f6087d81efa,Разное,Natur Green Kakao,200ml,1.20   ,0.7,,"Жидкое какао, порционное, 1 пачка"
+21df27b3-7e78-4fce-80ae-e8d1ee8e97b8,Разное,Cappuccino Classik (10 Stück),150g,4.30   ,1.6,0.2,"Капучино сухой порошек, в порционных пакетиках, без лактозы"
+1389490f-286f-4201-bf7f-fd24f16dad46,Разное,Cappuccino Schoko (10 Stück),150g,4.30   ,2.5,0.4,"Капучино шоколадное, сухой порошек, в порционных пакетиках, без лактозы"
+77170873-d5c3-42df-b586-52a30c873540,       NATUR COMPAGNIE: Супы и не только,"Snack Soup Tomate, Bio",54g,3.65   ,0.3,,"Суп быстрого приготовления  ""Томатный"", Био, 3 пакетика * 18 гр"
+228e7db3-7b75-4cf3-a46a-926023ef0faf,       NATUR COMPAGNIE: Супы и не только,"Snack Soup Gemüse, Bio",54g,3.65   ,0.5,,"Суп быстрого приготовления ""Овощной"", Био, 3 пакетика * 18 гр"
+c5e93fef-ad0e-498e-b012-31f9156b1f34,       NATUR COMPAGNIE: Супы и не только,"Snack Soup Frühling, Bio",34g,2.45   ,0.4,,"Суп быстрого приготовления ""Весенний"", Био, 2 пакетика * 17 гр"
+9f7d2946-f625-4beb-bfc7-d4482afb46de,       NATUR COMPAGNIE: Супы и не только,Snack Cup Veggi Noodle Soup,50g,2.45   ,2.4,,"Суп с макаронами быстрого приготовления, заливной в банке, ""С лапшей"", Био"
+4d6ab18d-6a44-4727-b872-30c4d972aeb1,       NATUR COMPAGNIE: Супы и не только,Snack Cup Veggi Pasta Napoli,59g,2.45   ,2.4,,"Суп/макароны быстрого приготовления, заливной в банке, ""Паста Наполи"", Био"
+4dfb88de-47b3-4b67-8560-d223c8fbeed8,       NATUR COMPAGNIE: Супы и не только,Snack Cup Veggi Asian Style,55g,2.45   ,2.4,,"Суп быстрого приготовления, заливной в банке, ""Азиатский с овощами "", Био"
+2ae1bd8c-d513-48ef-8492-8b0756ce5acd,       NATUR COMPAGNIE: Супы и не только,Snack Cup Couscous Oriental Style,68g,2.45   ,2.8,,"Кус кус быстрого приготовления, заливной в банке, ""Восточный вкус "", Био"
+f23917d5-93fd-4917-be31-f63dba1dba98,Намазки для бутербродов ,Nuss Nugat Creme,400g,4.00   ,2.4,,Шоколадная паста c 10 % фундука
+084692ad-f65b-4f67-bdf7-a666f4ec7b78,Намазки для бутербродов ,Schokocreme Twix,350g,5.80   ,2.8,,Шоколадная паста Twix
+6c2007cf-2436-41bd-863e-44c2db1ae4e2,Намазки для бутербродов ,Schokocreme Mars,350g,5.80   ,3.1,,Шоколадная паста Mars
+6acc6916-3873-4e04-9070-8bd2ea180cbf,Намазки для бутербродов ,Schokocreme Bounty,350g,5.80   ,2.8,,Шоколадная паста Bounty
+5ff917b4-0184-467a-a61b-12778a26217b,Намазки для бутербродов ,Schokocreme Milky Way,350g,5.80   ,3.3,,Шоколадная паста Milky Way
+0f5bbcaa-89cf-4cae-ac3e-13ba6d8b7307,Намазки для бутербродов ,SchokoMac,300g,4.50   ,2.6,,Шоколадная паста
+8a111b98-1f7a-4d34-914d-55a3f76f85b1,Намазки для бутербродов ,Vitaness veganer Brotaufstrich,100g,4.00   ,"2,5-2,8",,"Намазка для бутербродов овощная, 3 разных вкуса"
+ab6fe1d3-fcff-4b9e-b108-1047412fcd28,"Десерты, Мороженное и тд ",Schlagfix Schokotraum-Spray-Dose ,200ml,3.65   ,0.5,,Сливки шоколадные в виде спрея
+2d75a5da-611b-4ec6-8270-84bff94c1640,"Десерты, Мороженное и тд ",Schlagfix-Spray-Dose,200ml,3.25   ,0.0,,Сливки в виде спрея
+eaf64d45-8caa-4936-9e47-7babd563c9ea,"Десерты, Мороженное и тд ",Schlagfix,200ml,1.45   ,0.0,,Сливки в тетрапаке
+59715c7b-e69a-441a-8cf7-188c1d48091b,"Десерты, Мороженное и тд ",Chocolate & Cream Dessert Coconut collab,120g,3.00   ,1.5,,Шоколадносливочный десерт 2 шт*60гр
+b3d21053-9383-4c49-b0a1-4e4a35043ad4,"Десерты, Мороженное и тд ",Chocolate Dessert  Coconut collab,180g,4.20   ,2.5,,Шоколадный десерт 4 шт*45гр
+e7f5401a-3c9f-4f9b-a9b3-c5817ffb86b0,"Десерты, Мороженное и тд ",Dessert Salted Caramel Coconut collab,180g,4.20   ,2.2,,Десерт соленая карамель 4 шт*45гр
+14b7cec8-3afa-4c03-9e4b-aba5941dee9c,"Десерты, Мороженное и тд ",Chocolate Melt in the Middle Coconut collab,180g,5.60   ,2.5,,Шоколадное пироженое Лава с жидким шоколадом внутри  2 шт*90гр
+5e8f6ac9-04e5-4d01-83b8-f48de5bedef2,"Десерты, Мороженное и тд ",Biovegan Eis-Traum Vanille,77g,3.80   ,0.2,,"Смесь для приготовления ванильного мороженного,  Био "
+3c7a649c-0662-45dc-917d-e131dbe66c56,"Десерты, Мороженное и тд ",Biovegan Eis-Traum Schoko,68g,3.80   ,2.0,,"Смесь для приготовления шоколадного мороженного,  Био "
+d46e44d1-8414-4050-a9ed-3a56394c1084,"Десерты, Мороженное и тд ",Biovegan Vanille Sause ,32g,3.20   ,0.7,,"Смесь для приготовления ванильного соуса,  Био "
+ee6357fa-042c-4838-9a3a-6a376c18f34e,"Десерты, Мороженное и тд ",Biovegan Dessert Vanille Creme ,52g,3.20   ,0.7,,"Смесь для приготовления ванильного кремдесерта без варки,  Био "
+059875a4-4a13-49c7-809b-5d2bc65e9cd3,"Десерты, Мороженное и тд ",Biovegan Dessert Creme Schoko,68g,3.20   ,3.7,,"Смесь для приготовления шоколадного кремдесерта без варки,  Био "
+a32e9566-dde0-45c5-91cb-059a02510de1,"Десерты, Мороженное и тд ",Biovegan Paradies Vanille Pudding  ,31g,2.20   ,"<0,5",,"Смесь для приготовления ванильного пудинга,  Био "
+6f44c22a-5879-48c3-8d17-c342a555c362,"Десерты, Мороженное и тд ",Biovegan Paradies Schoko Pudding  ,55g,2.00   ,3.6,,"Смесь для приготовления шоколадного пудинга,  с кусочками шоколада, Био "
+310cf768-0e56-4a2b-9088-b07ec01e051c,"Десерты, Мороженное и тд ",Biovegan Paradies Pudding Karamell,43g,2.30   ,"<0,6",,"Смесь для приготовления карамельного пудинга в ручную,  Био "
+6d74f021-124c-4706-bded-55271077ebfe,"Десерты, Мороженное и тд ",Biovegan Dessertsauce Karamell,150g,5.85   ,"<0,5",,"Десертный соус ""Карамель"""
+6528c589-f484-4cd1-a454-395f9d3dfd26,"Десерты, Мороженное и тд ",Biovegan Dessertsauce Erdbeer,150g,5.85   ,"<0,5",,"Десертный соус ""Клубничный"""
+5061a34d-e0d6-4fd3-ab1f-d4823f6b9d90,"Десерты, Мороженное и тд ",Biovegan Dessertsauce Schoko,150g,5.85   ,"<2,8",,"Десертный соус ""Шоколадный"""
+42340b84-b2cc-4946-a639-4dca8ce14db6,"Десерты, Мороженное и тд ",Sobo Bio Dessert Creme Joghurt-Traum,58g,2.50   ,0.0,,"Смесь для приготовления кремового йогурта в ручную,  Био "
+2af6b1db-5d11-4f47-b532-e7c664cb80c3,"Десерты, Мороженное и тд ",Sobo Bio Dessertcreme Schoko-Traum,74g,2.50   ,0.0,,"Смесь для приготовления нежного шоколадного десерта в ручную,  Био "
+c235849f-012e-4cf4-9dfb-6eff9d839651,Выпечка,Covo Erdbeere,300g,2.50   ,3.0,,Печенье с клубникой облитое шоколадом
+46cb17f3-2933-4ec3-b41e-596a80e77d4e,Выпечка,Covo Orangen,300g,2.50   ,3.0,,Печенье с апельсином облитое шоколадом
+ea878e81-355e-436e-b39c-5b422eb998f7,Выпечка,Jaffa Kirsche/ Banane/ Pfirsich/ Erdbeere,300g,2.50   ,3.0,,"Печенье облитое шоколадом с разными начинками ( вишня, банан, персик, клубника) "
+08d0fe0d-e376-48ed-9765-daba3b7721c9,Выпечка,Vanilio Waffeln,100g,1.70   ,3.0,,Ванильные вафли
+ea3394b6-b9ca-4134-8018-c67793c594b0,Выпечка,Zitrone Waffeln,100g,1.70   ,3.0,,Лимонные вафли
+a069d527-1e63-44dc-996d-013ee46d3166,Выпечка,Erdbeer Waffeln,100g,1.70   ,3.0,,Клубничные вафли
+1510053d-061d-49ff-b0c8-1b470b312751,Выпечка,Kakao Waffeln,100g,1.70   ,3.0,,Шоколадные вафли
+b76e0465-0663-40b1-9b09-c28f30bd5cc3,Выпечка,Feine Heidelbeer Waffeln,75g,1.70   ,2.4,,Нежные черничные вафли
+f6c3dc1e-ec26-4189-91fa-1ac686dfc61b,Выпечка,Orgran Shortbread Herzen ,150g,4.20   ,0.8,,"Печенье сердечки, Австралия"
+3fcca5d6-74e5-4951-a2c7-e4620a9443dd,Выпечка,Celiane Bio Himbeertörtchen,130g,5.00   ,1.0,,Тарталетки с малиной 
+f8e059cc-aadb-4d4e-ba28-28f56ead357b,Выпечка,Bio Törtchen Waldfrucht,200g,6.50   ,2.0,,Тарталетки c лесными ягодами
+2dd9302f-20ad-4187-a032-8b9beb7ff952,Выпечка,BioReis-Buchweizenkekse mit Heidelbeer,200g,5.80   ,3.4,1.1,Печенье рисово гречишное c начинкой из черники
+a2fb136e-d4bf-4fb4-b639-25836bba1799,Выпечка,Coppenrath King Coooky mit Kakaocreme,250g,2.70   ,2.8,,Печенье двойное с шоколадной начинкой
+ff7296e4-f1bd-474a-8b50-d55077d76528,Выпечка,Coppenrath Vanillekeks mit Vanillecreme,300g,3.50   ,1.9,,Печенье двойное с ванильной начинкой
+4248bbdf-683e-4e0a-bc75-6c72c89b1c24,Выпечка,Coppenrath Kakaokeks mit Vanillecreme,300g,3.50   ,3.1,,Печенье шоколадное двойное с ванильной начинкой
+bd085662-f626-4432-877b-9df3ef62bf5f,Выпечка,Coppenrath Butter-Spekulatius,150g,3.00   ,2.6,,"Рождественское сливочное печенье, без глютена и лактозы"
+7c7dd89f-9eca-4b3b-9b67-2f0730b9c354,Выпечка,Coppenrath Gewürz-Spekulatius,150g,3.00   ,2.5,,"Рождественское Пряное печенье, без глютена и лактозы"
+17cd86d8-94d1-49ed-b803-8ee110147a61,Выпечка,Coppenrath Lebkuchen mit Pflaume,175g,3.60   ,3.5,,Пряники со сливовой начинкой 
+acff0cc6-b3ce-44e0-b1cf-6ab5c8c3556f,Выпечка,Choco La Schaumküssen,300g,2.50   ,2.7,,Пироженные Бомбочки в шоколаде
+e064696d-a675-4fea-8559-974c472e53a3,Выпечка,Honigwaffeln ,240g,6.50   ,2.3,,Вафли с прослойкой из меда и карамели
+5d3ce089-191d-43d2-ac87-83ae82b4e338,Выпечка,Gullon Dibus sharkies Kekse,250g,3.90   ,1.9,,"Шоколадные печенья в виде акул, Испания, без глютена и лактозы"
+698d3ee3-fad9-4cce-9d13-45767c02c77a,Выпечка,Consenza Crispy Choko Wafers,65g,3.70   ,2.8,0.6,Вафли шоколаные облитые шоколадом а-ля Kitkat
+e8014639-f02e-4741-b8e3-7f4d15cb88c0,Выпечка,Consenza Mais Tortilla ,180g,3.90   ,4.5,0.7,Тортилья
+a9232d0f-0d38-47a0-bd49-0562d223c9a4,Выпечка,Panito Panino per Burger,125g,5.50   ,3.0,1.9,"Булочки с кунжутом для бургеров 2* 62,5 гр"
+b43dbf3b-1401-4394-b498-372296dd8c21,Выпечка,Bio Kakao Muffins,125g,4.40   ,3.2,,"Маффины шоколадные, без глютена и лактозы"
+8bf7bb90-516d-43e7-9b9d-1b0088359e03,Выпечка,MGB Marmorgebäck,160g,5.20   ,2.0,,"Песочное печенье Зебра, без глютена"
+12252aa0-7880-4ef1-85a3-2f4c7a1de5cc,Выпечка,Frühstücks Kuchen,300g,3.50   ,2.0,,"Пирог пряничного вкуса, бывает на Рождество"
+1a54a07a-f5e3-42ba-8df8-99561862ef2b,Piaceri Mediterranei,Crostatine Törtchen mit Aprikosenfüllung,200g,6.60   ,3.1,,"Тарталетки/корзиночки с абрикосом, без глютена, 4 шт *50 гр"
+53a83dcf-e77f-4dc8-884b-0c2182fc3b67,Piaceri Mediterranei,Schiacciatalla Classica,100g,4.80   ,0.9,,"Воздушные мини хлебцы/сухарики, без глютена"
+dcaa6de0-a636-4195-836b-6bc3893f3853,Piaceri Mediterranei,Schiacciatalla Gusto Pizza,100g,4.80   ,1.1,,"Воздушные мини хлебцы/сухарики со вкусом пиццы, без глютена"
+7841a0fb-6798-4cda-8b7a-60712b5acdec,Piaceri Mediterranei,Dobloni Dark & White,120g,4.40   ,3.2,,Печенье двойное с шоколадной начинкой
+f13ef85c-24fb-44d6-9274-ed9794922a87,Piaceri Mediterranei,Wafer Wanilla ,175g,4.40   ,3.2,,Ванильные вафли
+0de78cbe-9168-4be9-96ad-9bba58751d4c,POENSGEN,Poensgen Butterkekse,100g,3.50   ,1.7,,"Сливочное печенье,  без глютена "
+55100e38-d5fc-4d71-9a9f-8d26c38ac3f9,POENSGEN,Poensgen Schokokekse,150g,4.55   ,3.9,,"Шоколадное печенье,  без глютена "
+ed4fede8-caa5-4445-93ae-0dcf731ce1e6,POENSGEN,Poensgen Butterspekulatius,150g,3.90   ,1.7,,"Сливочное печенье рождественское,  без глютена "
+52272395-b502-430b-89c2-4ddd737d6a17,POENSGEN,Poensgen Lebkuchenherzen Vollmilchsch,175g,4.30   ,3.5,," Рождественский пряник в молочном шоколаде, без глютена"
+1a430a1a-db73-49a6-9794-3b40b81ff5ad,POENSGEN,Poensgen Lebkuchenherzen Zartbitter,175g,4.30   ,3.0,," Рождественский пряник в темном шоколаде, без глютена"
+1e1f0fb4-cea1-41af-829a-e3e4fa4312cb,POENSGEN,Poensgen Printen,150g,3.90   ,2.0,,"Разновидность рождественского пряника, без глютена"
+5d461b61-84be-46e6-b5aa-dd51121cb3b0,POENSGEN,Poensgen Schokoprinten,175g,4.30   ,3.1,,"Разновидность рождественского пряника в шоколаде, без глютена"
+73d3f75f-dcdd-4924-8fee-810897931851,POENSGEN,Poensgen Mini-Stollen,220g,5.20   ,3.5,,"Разновидность рождественской выпечки, без глютена"
+9e1090d3-2a20-4cb3-988d-d52c9f0bcaab,POENSGEN,Poensgen Haltbares Landbrot,400g,4.80   ,0.7,,"Хлеб "" Деревенский"" в нарезке, без глютена"
+65065f33-d684-434a-9e75-73a5f3551bdf,POENSGEN,Poensgen Bauernbrot,400g,5.10   ,3.6,,"Хлеб ""Крестьянский"" в нарезке, без глютена"
+9b80877b-47d8-4841-a8c6-cfe78747a8ac,POENSGEN,Poensgen Toastbrot,400g,4.95   ,2.8,,"Хлеб ""Для тостов"" в нарезке, без глютена"
+dd0ee3d9-ff3a-4c6e-b76d-3a37bab203f3,POENSGEN,Poensgen Rosinenbrot,400g,5.50   ,3.5,,"Хлеб сладкий ""с изюмом"" в нарезке, без глютена"
+6e047db9-2865-4f2e-bf3a-7bdc2747d714,POENSGEN,Poensgen Classic,500g,3.20   ,1.1,,"Мука Классическая, Серебрянная медаль 2010 г"
+a0d8a82b-9674-468f-bf3c-b2f639b3b103,POENSGEN,Poensgen Paniermehl,400g,4.50   ,0.7,,"Панировочные сухари, без глютена"
+6fe1e6cb-577c-41f0-bd0d-e6793094d83f,POENSGEN,Poensgen Waffeln,100g,2.60   ,3.6,,"Вафли венские, без глютена"
+45eeede8-ff56-49e4-bf03-76a6d3e7a65d,POENSGEN,Poensgen Rosinen-Brötchen,100g,2.90   ,2.9,,"Булочки с изюмом, без глютена"
+33d6ce87-3485-4cd9-9a76-573a068803ef,POENSGEN,Poensgen Laugen-Stangen,100g,3.25   ,2.8,,"Булочки из теста для крендельков, без глютена"
+e46b1d39-3777-4267-8e10-af9d2f58076d,POENSGEN,Poensgen Bauern-Brötchen,100g,2.90   ,3.7,,"Булочки Фермерские, без глютена"
+b6b06f75-5df0-4984-813e-1a3112abb903,POENSGEN,Poensgen Keiser-Brötchen,100g,2.60   ,3.7,,"Булочки Царские, без глютена"
+cb6761d8-402a-45a6-b7e2-fb4483d93869,POENSGEN,Poensgen Körner-Brötchen,100g,2.90   ,3.5,,"Булочки с семечками, без глютена"
+30ddf7fa-f84b-4646-b748-9aea9c2e2c9b,POENSGEN,Poensgen Marmorkuchen,350g,6.50   ,3.3,,"Традиционный Мраморный пирог, без глютена"
+fcff1af1-0672-4502-971a-eb3528684038,POENSGEN,Poensgen Zitrinenkuchen,350g,6.50   ,3.3,,"Традиционный Лимонный пирог, без глютена"
+92f426f6-440f-4d2c-9d6a-ff99809f3836,Procelli     (Испания),Proceli Magdalenas,160g,4.20   ,2.9,1.2,"Кексы магдаленас, без глютена и лактозы"
+1ae165ba-de13-460b-b2fd-a2d243b77e83,Procelli     (Испания),Proceli Schoko Magdalenas,160g,4.20   ,3.8,1.7,"Кексы шоколадные магдаленас, без глютена и лактозы"
+8fa251be-e1b3-4c77-91a2-5a276deac744,Procelli     (Испания),Proceli Barquillos,90g,5.20   ,3.4,,"Вафельные трубочки в шоколаде, без глютена и лактозы"
+94cc47b3-3199-4363-8165-9509e3dc8619,Procelli     (Испания),Proceli Croissant,200g,4.50   ,1.2,,"Круасонс, без глютена и лактозы"
+dbe6c29e-3c2a-4f69-a88c-e26edab1d829,Procelli     (Испания),Proceli Schoko Croissant,230g,6.40   ,1.5,,"Круасонс с шоколадом, без глютена и лактозы"
+428a7ba4-c802-4bb0-a1fa-42c63666c830,Procelli     (Испания),Proceli Pizza,250g,5.20   ,0.8,,"Коржи для пиццы, без глютена и лактозы"
+f9ad2ad9-e0f9-4e2e-9c2d-d13a31a895f2,Procelli     (Испания),Proceli Classik Sandvich,280g,4.20   ,1.2,,Хлеб классический для сендвичей
+5797d157-f981-4583-b235-4f68880de1ed,Procelli     (Испания),Proceli Mehrkorn Sandvich,280g,4.20   ,1.8,,"Хлеб мультизерновой для сендвичей, без глютена и лактозы"
+35d6ec29-6fd1-4cb3-8f27-331fe5f1795f,Procelli     (Испания),Basic Mix Mehlmischung Procelli,1000g,5.20   ,1.1,,"Смесь муки для хлеба из Испании, без глютена и лактозы "
+f8453a7b-e2a9-493c-a9c1-9cc276348747,NUTRI FREE     (Италия),Mix per Pane ,1000g,6.90   ,1.2,,"Смесь муки для хлеба из Тосканы, без глютена "
+e5ce43eb-e358-40a7-9075-1c9fb89b8989,NUTRI FREE     (Италия),Mix per Dolci,1000g,6.80   ,0.9,,"Смесь муки для сладкой выпечки из Тосканы, без глютена и лактозы "
+b4270839-e693-4b11-89c3-84c2b3c965cb,NUTRI FREE     (Италия),Mix per Pizza,1000g,6.80   ,2.1,,"Смесь муки для пиццы из Тосканы, без глютена и лактозы "
+3b5744ea-bd7c-40ae-bbea-95ac2b7e9e3f,NUTRI FREE     (Италия),Panbauletto Bianko,300g,5.30   ,1.2,,"Белый хлеб в нарезке из кислого теста, без глютена "
+2fb5a607-7c74-478f-aaa9-e04677c20891,NUTRI FREE     (Италия),Panbauletto Integrale,300g,5.30   ,2.2,,"Серый хлеб в нарезке из кислого теста, без глютена "
+ced6f3eb-1b6b-4e60-ba2d-7de8e5d4b095,NUTRI FREE     (Италия),American Sandvich Nutri free,240g,4.60   ,1.1,,"Белый хлеб в нарезке для сендвичей, без глютена "
+8dcc75a5-373e-4e48-a0c2-ab215787be8e,NUTRI FREE     (Италия),Base per Pizza,200g,4.55   ,1.5,,"Корж для пиццы, без глютена "
+9cf694ad-8dd0-4039-8915-8f3d7ef82828,NUTRI FREE     (Италия),Piadina Wraps,120g,4.40   ,1.5,,"Лепешки для шаурмы, без глютена "
+08f1b49b-5bce-4cff-996f-b74b2a131069,NUTRI FREE     (Италия),Panino Hot Dog,65g,3.50   ,2.2,,"Булочки для хот догов, без глютена "
+c998ff71-27d0-4936-8b01-ef2ae47a0af1,NUTRI FREE     (Италия),Panino Hamburger XS,110g,3.75   ,2.2,,"Булочки для гамбургеров, размер XS, без глютена "
+24224e52-af6b-4dee-b534-4932ff7178bb,NUTRI FREE     (Италия),Panino Hamburger XL,200g,5.20   ,2.2,,"Булочки для гамбургеров, размер XL, без глютена "
+b11cd22a-914a-4383-b258-04526f35076b,NUTRI FREE     (Италия),Grissottii Rustici,100g,3.90   ,1.5,,"Хлебные палочки с солью, без глютена "
+c70898b8-875e-406b-93a9-967881cf6921,NUTRI FREE     (Италия),Le Brioche Schoko,200g,5.90   ,2.2,,"Бриошь с кусочками шоколада, без глютена,  4 шт *50 гр "
+276c88a8-c348-4975-9592-76243c430d94,NUTRI FREE     (Италия),Le Brioche Cacaofülung,200g,5.90   ,1.8,,"Бриошь с шоколадным кремом, без глютена,  4 шт *50 гр "
+fad2faee-c486-4e58-8e7e-3abe64be9f15,NUTRI FREE     (Италия),Le Brioche mit Aprikosenfüllung,200g,5.90   ,1.4,,"Бриошь с абрикосовой начинкой, без глютена,  4 шт *50 гр"
+87502ae6-8757-4dc0-9e2d-65880debb00c,NUTRI FREE     (Италия),Nutri free Croissants Classik,200g,7.80   ,2.8,,"Круасонс, без глютена, 4 шт *50 гр"
+2385f3ab-31bb-4de7-93af-c42e1cd6ec7c,NUTRI FREE     (Италия),Nutri free Croissants mit Beerenfüllung,240g,6.30   ,2.2,,"Круасонс с ягодной начинкой, без глютена,  4 шт *60 гр "
+65485c1d-0014-4fdd-926b-a1ea385f2feb,NUTRI FREE     (Италия),Nutri free Croissants mit Aprikosenfüllung,240g,6.30   ,2.2,,"Круасонс с абрикосовой начинкой, без глютена,  4 шт *60 гр "
+6cb9bab8-b08f-4fe2-b15d-29ea23ce2571,NUTRI FREE     (Италия),Nutri free Croissants mit Pistazienfüllung,240g,7.40   ,2.7,,"Круасонс с фисташковой начинкой, без глютена,  4 шт *60 гр "
+1a1344ec-6675-44bd-8d1a-715274384e68,NUTRI FREE     (Италия),Nutri free Croissants Schoko,240g,7.40   ,2.7,,"Круасонс с шоколадным кремом, без глютена,  4 шт *60 гр "
+825acba5-15fc-4107-a17a-7bdb72bfd22e,NUTRI FREE     (Италия),Nutri free BuoniVeri,250g,5.20   ,1.0,0.1,"Печенье из цельнозерновой муки, без глютена"
+deec138f-70e3-44dd-a74d-8a531c828216,NUTRI FREE     (Италия),Pandoro Bonta Classico,600g,14.00   ,2.1,,"Рождественский пирог, без глютена"
+638c98ee-c117-4005-b03d-9ee1f08037a7,NUTRI FREE     (Италия),Pandoro Bonta Cioccolato,600g,14.30   ,2.5,,"Рождественский пирог с кусочками шоколада, без глютена"
+2fc3dbcc-7997-4b00-8401-0b30694d3905,NUTRI FREE     (Италия),Panettoncino cioccolato,100g,4.10   ,3.6,,"Рождественский пирог с кусочками шоколада, без глютена"
+2733b488-d58b-4b9b-ac31-ed36eadc1e6b,NUTRI FREE     (Италия),Nutri free Fette Biscottate,225g,5.10   ,2.7,0.3,"Хлебцы из белого хлеба, без глютена"
+16f50c9f-b4bb-4dd7-a43d-455109a2e559,NUTRI FREE     (Италия),Nutri free Fette Biscottate Integrali,225g,5.10   ,3.0,0.4,"Хлебцы из цельнозерновой муки, без глютена"
+4cb2d9e3-fba4-4809-9af3-c3443a4eb69a,NUTRI FREE     (Италия),Nutri free Snack Pizza,100g,4.90   ,1.1,,"Воздушные мини хлебцы/сухарики, со вкусом пиццы, с сушеными помидорами и тд, без глютена"
+2f7caaec-721d-4287-b344-4a8d87e42896,NUTRI FREE     (Италия),Nutri free Snack Paprika Peperonchino,100g,4.90   ,1.1,,"Воздушные мини хлебцы/сухарики, со вкусом паприки и чили, с небольшой остротой, без глютена"
+5b709ab4-5cc7-4521-8215-e242383556dc,NUTRI FREE     (Италия),Nutri free Snack Rosmarino,100g,4.90   ,1.1,,"Воздушные мини хлебцы/сухарики, с ноткой розмарина, без глютена"
+ebc379b0-f222-4d5d-b738-85a77a62e817,NUTRI FREE     (Италия),Nutri free ILTarallo,100g,6.30   ,3.8,1.2,"Сушки, без глютена"
+1da61970-d495-4ef2-aa26-3172641f99ca,MaTatie (Франция),Bio Madeleines Natur Matatie,135g,5.50   ,2.7,0.7,"Мадленки натураньные, био, без глютена"
+9b009b6f-f649-407a-a6f9-e6bf05b4d57d,MaTatie (Франция),Bio Madeleines Citron Matatie,135g,5.50   ,2.7,0.7,"Мадленки лимонные, био, без глютена"
+c41d43a3-e48b-4ea7-a1f5-06ae220478da,MaTatie (Франция),Bio Madeleines mit Schokostückchen Matatie,135g,5.90   ,3.1,0.8,"Мадленки с кусочками шоколада, био, без глютена"
+db8584b1-6289-44b8-b402-8d07e2a4e4a5,MaTatie (Франция),Bio Cookies mit Schokostückchen Matatie,160g,6.10   ,3.1,0.6,"Печенья с кусочками шоколада, био, без глютена"
+478303d9-2ae6-4877-b508-a835e3c6118d,MaTatie (Франция),Bio Brownies Matatie,155g,5.90   ,2.9,0.9,"Браунис, био, без глютена"
+92ee1af0-4d23-41e8-814a-8081bed128f5,LEIBNITZ,Leibnitz Zoo,100g,3.20   ,2.7,,"Печенье в виде зверушек, без глютена и лактозы"
+55d99dba-5b17-43e6-8675-48f166d6daec,LEIBNITZ,Leibnitz Butterkeks,100g,3.20   ,2.5,,"Печенье сливочное, без глютена и лактозы"
+6b267adb-e2dd-4855-b7cb-fc71c4b71e99,LEIBNITZ,Leibnitz Minis,100g,3.20   ,2.5,,"Печенье мини, без глютена и лактозы"
+9dbf0d82-60d7-42a6-a595-b9354b420a21,3 PAULY,3 Pauly Vanillegebäck,125g,3.70   ,2.9,,"Печенье ванильное,  без глютена и лактозы"
+047b41b2-bbbb-4fda-b78f-6f2c06418941,4 PAULY,3 Pauly Torteletts,150g,3.90   ,3.0,,"Тарталетки,  без глютена и лактозы"
+26e91c53-ff1a-42fa-b404-c6d3c9bff4a6,5 PAULY,3 Pauly Cremeo Kakaokekse,120g,3.60   ,2.3,,Печенье двойное шоколадное с начинкой
+cf48e93d-5923-4069-a901-e0c62537e650,Richter,Richter Sesamspitz,225g,4.90   ,3.5,,"Рогалики с кунжутом, без глютена"
+cc98cf1d-ca48-45aa-9d7a-c9e02f42afda,Richter,Richter Landbrötchen,300g,5.20   ,2.9,,"Булочки Деревенские, без глютена"
+afa87c1d-a650-4209-a989-cdeb96941523,Richter,Richter Krustenbrötchen,260g,4.80   ,2.9,,"Булочки Хрустящие, без глютена"
+7230c7b2-3828-4e3a-95cf-4c2452297c91,Richter,Richter Mini Baguette,351g,4.80   ,2.7,,"Мини багеты, без глютена"
+f78fd2b0-e990-4099-8ec3-eb36bee8e33a,Richter,Richter Kaisersemmel,402g,5.60   ,2.7,,"Булочки Царские, без глютена"
+04ee29f7-b264-46b0-b75d-7ff20a5b27e3,Richter,Richter Ciabatta,280g,4.50   ,2.7,,"Булочки Чиабатта, без глютена"
+4dda58f6-25fd-4bce-b660-1f4fba76a98c,Richter,Richter Schnittbrötchen,270g,5.60   ,2.7,,"Булочки Классические, без глютена"
+a0fac89f-0872-41de-9fd8-59cc86266901,Richter,Richter Apfelstrudel,320g,7.80   ,1.8,,"Яблочный штрудель, без глютена"
+3e089095-a097-496e-aeac-988492305f80,Шоколад,Reismilchschokolade,100g,3.50   ,2.1,,Шоколадная плитка
+3021dada-0438-4b63-9e98-c19793a7e1eb,Шоколад,Reismilchschokolade Kaffee,100g,3.50   ,1.9,,Шоколадная плитка с молотым кофе
+45725482-9d17-4c38-b156-973c84ee355c,Шоколад,Reismilchschokolade Reis Crisps,100g,3.50   ,1.8,,Шоколадная плитка с воздушным рисом
+0723d36c-b520-4bdf-ac24-bfb1bf1ff06b,Шоколад,Reismilchschokolade Rosinen Haselnusse,100g,3.50   ,2.8,,Шоколадная плитка с изюмом и орехами
+e89cd633-8adc-4473-ae60-c7c9f3203bcd,Шоколад,Reismilch Tafel Weiß,100g,3.50   ,0.0,,Плитка белого шоколада
+37b06ce4-51dd-4c18-904b-367f1170f996,Шоколад,Reismilchschokolade Herzen,100g,5.20   ,2.1,,"Шоколадные фигурки ""Сердечки"""
+8436469b-9473-4076-9e7e-84b6390ebf65,Шоколад,Reismilchschokolade Figuren,100g,5.20   ,2.1,,Шоколадные фигурки 
+c0460d82-0b8d-4a36-8880-e414e510a9b0,Шоколад,Lollypop,40g,4.00   ,2.0,,Шоколад на палочке 2 шт
+598d0232-cdbb-4863-a428-a029aa0fad7f,Шоколад,Kakaosticks,80g,5.00   ,2.9,,Шоколад для приготовления какао на палочке 2 шт
+2c4febb9-991d-4e66-accb-5a1384053a9c,Шоколад,Reisdrink Coconut,35g,1.90   ,1.8,,Шоколадный батончик с кокосом
+22acdc67-7690-46fb-a646-ecd1fc28dc2c,Шоколад,Reismilch Pistachio,35g,1.90   ,2.1,,Шоколадный батончик с фисташками
+c4ecf4c6-45da-4322-93fe-942444663986,Шоколад,Reismilchschokolade couv.,600g,12.00   ,2.1,,Шоколадные медальки
+011e9c3c-e69c-466a-86fc-897dd63641a9,Шоколад,Rapunzel Rice Choco,100g,3.00   ,2.5,,Шоколадная плитка фирмы Rapunzel
+95755f18-96fd-4c80-b19c-abaf39ad6ccf,Шоколад,Naturata Special bio,100g,3.80   ,2.0,,Шоколадная плитка фирмы Naturata био
+005084e4-940b-4431-b673-4ca2ec269e84,Шоколад,iChoc Choko Cookie,80g,3.00   ,3.0,,Шоколадная плитка с шоколадным печеньем
+dacd4717-6742-44af-8656-7a43b4463375,Шоколад,iChoc White Barista Art,80g,3.00   ,0.6,,Шоколадная плитка белая со вкусом кофе
+3c23ea63-204f-44ab-a8ae-a1c6af43c21e,Шоколад,iChoc White Vanilla,80g,3.00   ,0.5,,Шоколадная плитка белая со вкусом ванили
+25e2e370-7f47-4c23-8df8-cafd4ee86824,Шоколад,Veganz weisse Erdbeer-Crisp,80g,2.80   ,0.6,,Шоколадная плитка белая с клубники и хлопьями
+290908e7-5570-49d1-84d8-118daa7ab812,Шоколад,Veganz weisse Kokos-Flakes,80g,2.80   ,0.7,,Шоколадная плитка белая с кокосом и хлопьями
+b1bfcca1-e65d-4406-9bb8-28184c107895,Шоколад,Cocoa Bites Smooth Orange,108g,5.80   ,2.8,,Шоколадные мини батончики с ноткой апельсина
+4f5febe9-5341-4229-b3e8-b38538229fa9,Шоколад,Cocoa Bites White,108g,5.80   ,0.6,,Мини батончики белого шоколада
+2f30d61d-16cd-4ba3-a70f-9bf05354c707,Шоколад,Cocoa Bites Strawberry,108g,5.80   ,0.6,,Мини батончики белого шоколада с клубничной начинкой
+4537e38c-967d-4d39-b8f1-09169c1cd7d3,Шоколад,After Eight Minzschokolade,200g,3.50   ,2.1,,Ментоловый шоколад
+ff00e068-0a94-418a-9a51-a38042a80422,Шоколад,Curly Wurly ,21g,0.60   ,3.0,,Шоколад с карамелью
+d81853bd-622d-44c0-8d7b-a2bd48863808,Шоколад,Daim ,56g,1.30   ,3.0,,Шоколад с карамелью
+370d9f46-ca8e-4ce7-a7c5-d8e802cde7ec,Шоколад,Daim Latte,56g,1.30   ,2.9,,Шоколад с карамелью и с ноткой Латте
+0a0c9129-a95b-4884-9114-65d8cc9dc34c,Шоколад,Daim Orange,56g,1.55   ,2.9,,Шоколад с карамелью и с ноткой апельсина
+75fc2d61-b0ce-4b90-aa8b-8f8291ad7acd,Шоколад,Fudge,22g,0.90   ,2.3,0.5,Шоколад с карамельной прослойкой
+e514bda0-007c-469b-962b-58a3fecedcc3,Шоколад,Chomp ,21g,0.90   ,2.8,0.6,"Батончик шоколадный,  а-ля Milky Way"
+d22a1a34-b348-44a1-ace0-9c7f0ea96c8b,Шоколад,Crunchie,40g,1.95   ,3.1,1.2,Батончик шоколадный с хрустящим карамелизированным бизе 
+15ebcb0b-f3ff-42d6-8721-a5112c5ce783,Шоколад,Wispa ,67g,2.60   ,1.5,,Батончик пористого молочного шоколада с жидкой карамельной начинкой 
+8d014e0e-ad00-4625-aa49-890e37590134,Шоколад,Vantastic Monsters,125g,3.90   ,1.4,,"Шоколадное драже, по типу M&M"
+50f7153a-779f-4a29-bd78-056e99ee64d0,Шоколад,Schokobons,180g,3.30   ,2.2,,"Шоколадые шарики, молочный шоколад "
+8ecf3b49-4c29-44bf-97be-18c34c2a20d3,Шоколад,Böhme Orangen Creme-Schokolade,100g,1.50   ,2.2,,Шоколадная плитка с апельсиновой начинкой
+d5ba3042-6083-48bc-b15c-fb4595da47a2,Шоколад,Böhme Himbeer Creme-Schokolade,100g,1.50   ,2.2,,Шоколадная плитка с малиновой начинкой
+15fd9511-6cfb-4527-a1fd-a8c7ea700db1,Шоколад,Böhme Erdbeer Creme-Schokolade,100g,1.50   ,2.2,,Шоколадная плитка с клубничной начинкой
+e4f0ae2a-706f-4a84-9544-52af6a8085d7,Шоколад,Schokoladen Kränze,200g,2.40   ,3.0,,"Рождественские веночки, шоколад в посыпке"
+b16fb95d-cb4d-4d1a-9f32-d4a9ab111a4f,Шоколад,Schokoladenplätzchen,200g,2.40   ,3.0,,"Рождественские капельки, шоколад в посыпке"
+12d7e518-5159-4adf-bdae-cc6a5c857b04,Шоколад,Fondant,175g,3.30   ,0.7,,"Рождественские фигурки, помадка в шоколаде"
+9878fe49-f225-4254-aa6d-ac3375b52f68,Шоколад,Choko- Mint,200g,2.20   ,2.4,,Шоколадное драже в ментоловой оболочке
+57b06854-13c5-4e34-bd17-66c51cadc955,Шоколад,Domino,200g,2.20   ,3.0,,Пряничные конфеты в шоколаде
+4222069a-286a-41ca-8d24-b6486b6b5279,Шоколад,Domino,125g,1.80   ,3.0,,Пряничные конфеты в шоколаде
+7c04f1dc-6039-465d-84c8-86fa0ef76dd9,Шоколад,Schogetten Vanille Erdbeer,125g,4.60   ,2.4,,"Шоколадные мини батончики с начинкой ""ваниль клубника"""
+173d4bf3-74ef-4444-b2ef-f3b9824c71c6,Шоколад,Schogetten Salz Karamell,125g,4.60   ,2.7,,"Шоколадные мини батончики с начинкой ""карамель с солью"""
+ce2f14c6-8f0d-4588-8b4f-7b63b5454af8,Шоколад,Schogetten Cocoa Cookie,125g,4.60   ,3.0,,"Шоколадные мини батончики с начинкой ""шоколад с печеньем"""
+cd9f7dd5-28bc-4fc6-859a-e64e84c5153f,Шоколад,Schogetten Adwentskalender,300g,13.00   ,2.7,,Рождественский шоколадный календарь с мини батончиками разной начинки  (сезонный артикль)
+e6445c98-45e6-4a64-b3f5-02a588521b65,Шоколад,Moo Free Oskar The Bear,80g,6.50   ,2.0,,"Рождественский шоколадный мишка (сезонный артикль), без глютена"
+5db936f0-30f4-463d-acf4-be61a352199b,Шоколад,Moo Free Weihnachtskalender,70g,6.50   ,2.2,,Рождественский шоколадный календарь (сезонный артикль)
+dfab9a5d-722f-451e-bd13-46c029d26b9d,Шоколад,Moo Free Weihnachtskalender weiss ,70g,6.50   ,1.7,,Рождественский шоколадный календарь с белым шоколадом (сезонный артикль)
+4c2c5df5-52be-419c-a5b7-8918de913c00,Шоколад,Moo Free Selection Box,80g,5.80   ,2.2,,Рождественский шоколадный набор фигурок  (сезонный артикль)
+a35fcf08-2749-4581-b6fc-ed58401dc239,Шоколад,Moo Free Weihnachtsmann,32g,2.20   ,2.2,,Рождественский шоколадная фигурка деда мороза  (сезонный артикль)
+5864305d-6855-4248-940f-f05850885c32,Шоколад,Bio Christmas Tree Himbeer Kokos,90g,5.00   ,2.3,,"Рождественская шоколадная елка с малиной и кокосом   (сезонный артикль), без лактозы"
+22c6de1a-5a43-4527-8b9e-f60dbb02d267,Шоколад,Bio Weihnachtsbaum Confetti,90g,5.00   ,2.3,,"Рождественская шоколадная елка с драже   (сезонный артикль), без лактозы"
+3cc0bb67-1551-4ba7-a1b0-3e423a7aef5d,Шоколад,Bio Weihnachtsbaum Confetti weiss,90g,5.00   ,0.2,,"Рождественская шоколадная елка с драже белый шоколад   (сезонный артикль), без лактозы"
+663db5ba-cb9c-405d-bc10-f81dcade7a1f,Шоколад,Schokokugel,100g,2.60   ,1.7,,"Шоколадые шарики, молочный шоколад  (сезонный артикль)"
+c2ad4571-1621-40c8-91c3-bf4e5c7f6aac,Шоколад,Dammenberg Weihnachtsmann,160g,10.00   ,1.9,,Шоколадный Дед Мороз (сезонный артикль)
+07c47f13-f0e1-4029-9b93-47286e3a833a,Шоколад,Osterhase Weiss ,100g,6.50   ,1.4,,"Шоколадный Пасхальный Заяц, белый шоколад (сезонный артикль)"
+5cafdad7-fbb2-45c6-bee3-3ec556d5721d,Шоколад,Osterhase Rosa,100g,6.50   ,1.4,,"Шоколадный Пасхальный Заяц, розовый шоколад  (сезонный артикль)"
+4e80ff30-75c0-4f6a-9897-44b5a103e1f6,Шоколад,Osterhase Original,100g,6.50   ,2.0,,"Шоколадный Пасхальный Заяц, молочный шоколад  (сезонный артикль)"
+15e99ead-2de0-4b6f-b6ee-23935a47e4be,Шоколад,Moo Free Ostereier mit Überrasung,100g,5.35   ,2.2,,"Шоколадное Пасхальное яйцо с сюрпризом, молочный шоколад  (сезонный артикль)"
+889674cd-b564-42de-8806-b9fda0a1bab4,Шоколад,Moo Free Ostereier mit Marshmallow,100g,5.35   ,1.8,,"Шоколадное Пасхальное яйцо с маршмело, молочный шоколад  (сезонный артикль)"
+21a41f4d-5f21-4c44-bbda-9e1c49c9327a,Mevalia,Bread Mix,500g,6.10   ,,,Смесь для хлеба
+697d74d6-3cf9-4d42-89ea-d4d0773116de,Mevalia,Pan Carré,300g,6.10   ,0.8,,Белый хлеб в нарезке
+22fea496-a1c3-47c9-8c30-e12160b31f02,Mevalia,Pane Casereccio,220g,5.80   ,,,Серый хлеб в нарезке
+77e1376b-d7f2-4e99-a013-f12705b91596,Mevalia,Ciabattine,260g,5.50   ,,,Булочки для завтрака
+981595e0-ec41-4171-ab7c-b9cc1b96d0bf,Mevalia,Fette Tostate,120g,4.85   ,,,Хлебцы
+03e7c785-8abb-4157-a653-09919ec73c88,Mevalia,Grissini,150g,5.10   ,,,Хлебные палочки
+f3402fee-5a90-475e-a4b6-48218ac8ab49,Mevalia,Pizzaboden Mevalia,300g,7.95   ,,,Коржи для пиццы
+908ce431-f564-465c-8867-1861bffe9f70,Mevalia,Penne Mevalia,500g,6.10   ,,,Макароны перья
+914c93fa-260f-4d3d-b55c-e2780f9acd14,Mevalia,Fusilli Mevalia,500g,6.10   ,,,Макароны спиральки
+bdc5138e-34c5-41e7-a15b-191d19dbc8ee,Mevalia,Spaghetti Mevalia,500g,6.10   ,,,Спагетти
+6f3034ee-169c-48da-a61d-761c891be6fa,Mevalia,Ditali,500g,6.10   ,,,Макароны трубочки короткие
+834a4143-f376-4e5f-8f46-118534ea38b2,Mevalia,Rice Mevalia,400g,5.50   ,,,Рис
+9ad93a3e-aa89-491b-84af-4beb12f2c251,Mevalia,Choco Chip,200g,6.10   ,,,Печенье с шоколадной крошкой
+f1751113-ad84-4703-a712-dfd2c3f45053,Mevalia,Frollini,200g,6.10   ,,,Печенье
+d41f6495-81b8-455b-b965-625667d4f400,Mevalia,Burger Mix Mevalia,350g,8.55   ,,,Смесь для котлет
+e133c822-f722-4a89-92cc-3a1c7b757293,Mevalia,Potato Püree,400g,9.95   ,,,Картофельное пюре
+7cf35cbc-fadc-40dc-b3f8-a4a31dfd08b7,Mevalia,Fruit Bar,125g,6.10   ,,,Батончики-печенья с клубничной начинкой
+c136bf3b-b990-4d28-b0f5-b1f37fad130b,Mevalia,Chokotino,100g,8.55   ,,,Плитка шоколада
+aeac1213-2cef-46ea-8a17-8853167de5d8,Mevalia,Egg Replacer Mevalia,400g,14.50   ,,,Заменитель яиц
+445a275a-9c8b-41fa-8b5b-99ae1e7115a5,Mevalia,Dr. Shär Gris & Ciocc,52g,2.45   ,3.6,,Палочки с шоколадной пастой
+45342cc1-a4c7-4835-943f-835c7868dea5,Mevalia,Salzbrezeln Schär,60g,1.50   ,0.9,,Соленые крендельки
+4c7d40de-8ad0-49ac-b497-2a3d77cee7c6,Mevalia,Salinissticks Schär,75g,1.95   ,0.9,,Соленые палочки
+3764a184-c7fd-4662-9cdb-abd609111b15,Mevalia,Lattis Mevalia,500ml,8.55   ,,,Молоко жидкое
+3f922cb2-5ec4-4468-a2e9-3bb0c239791f,Mevalia,Bon Matin,200g,3.60   ,2.9,,Булочки сладкие
+75c3f23c-7daf-4aa9-8798-c3ae14bf6f7f,Mevalia,Salti,175g,3.50   ,2.3,,Печенья с морской солью
+4c2db330-1fb1-4fba-8cd2-82e834014aed,Чипсы,Pombär chips original,75g,2.10   ,3.1,,"Чипсы детские без добавок ""Оригинальный вкус"""
+c7ec46c8-c565-4b4a-aa8c-0c922a917398,Чипсы,Pombär chips ketchup,75g,2.10   ,3.2,,"Чипсы детские без добавок ""Вкус кетчупа"""
+a2657f17-7968-4e0b-9b81-add0428c3fb7,Чипсы,Pombär chips sahne,75g,2.10   ,3.7,,"Чипсы детские без добавок ""Сливочный вкус"""
+b9d07986-7295-4994-b76f-6ecd1e917eff,Чипсы,Teddy´s Hit,125g,1.80   ,3.1,,Чипсы соленые
+62a63bfc-13ad-4098-bdbb-c63c49594cb5,Чипсы,Bravo,125g,1.80   ,3.1,,Чипсы в виде зверюшек
+c55fda13-da01-411d-b98b-b56af2f6c21b,Чипсы,Ringli Paprika,100g,1.80   ,3.5,,Чипсы колечки с паприкой
+0d7c631f-2828-4f36-a3ff-3585fbaacaaa,Чипсы,Pommels,75g,1.80   ,3.5,,Чипсы в виде переплетенной картофелины
+4ce60011-82a3-410b-8dcb-21b498cdabde,Чипсы,Snack Salt,175g,2.00   ,3.1,,Чипсы соленые по типу Pringles
+35cf597f-12b5-42b4-9e71-e2237da4f920,Чипсы,Snack Paprika,175g,2.00   ,3.5,,Чипсы по типу Pringles паприка
+2b83f1c3-a2f1-4142-92ea-e4cd74b0478b,Чипсы,Snack Sweet Sour Creme,175g,2.00   ,3.6,,Чипсы по типу Pringles со вкусом сметаны
+4e73404b-32c5-4085-a937-a55cf5879ab6,Чипсы,Sunnies,130g,1.70   ,3.1,,Чипсы соленые
+7b7f8cff-e4d6-4a67-9cd0-aca349b4ba4e,Чипсы,Knabberspass chips,100g,1.70   ,3.1,,Чипсы в виде переплетенных фиругок
+7bbd1bc2-2f4b-49c1-a1b8-033300d0d9ef,Конфеты разные и по типу *желатиновых* мишек ,Lach Gummi *Märchen Prinzen*,300g,2.50   ,0.0,,Конфеты сказочные принцы по типу желатиновых мишек с витаминами и соком фруктов 
+cc5954c8-91a9-4b0f-a977-dfa79192d023,Конфеты разные и по типу *желатиновых* мишек ,Lach Gummi *Kiba&Co*,300g,2.50   ,0.0,,Конфеты смешные рожицы по типу желатиновых мишек с витаминами и соком фруктов 
+e0bd56ff-9545-4c42-aea8-51d6d7110e74,Конфеты разные и по типу *желатиновых* мишек ,Lach Gummi *Party*,250g,2.50   ,2.4,,Конфеты приведения по типу желатиновых мишек с витаминами и соком фруктов 
+abf1a73c-5e39-49f3-9351-6338c1233d15,Конфеты разные и по типу *желатиновых* мишек ,Lach Gummi *YoDinos*,300g,2.50   ,2.5,,Конфеты динозаврики по типу желатиновых мишек с витаминами и соком фруктов 
+3f70cc77-b045-4958-8ab6-5021bc93f1e7,Конфеты разные и по типу *желатиновых* мишек ,Lach Gummi ,250g,2.20   ,0.0,,Конфеты по типу желатиновых мишек с витаминами и соком фруктов 
+cff27ae2-e11d-4500-a8bc-aeaf8c3efb74,Конфеты разные и по типу *желатиновых* мишек ,Lach Gummi ,200g,1.80   ,0.0,,Конфеты по типу желатиновых мишек с витаминами и соком фруктов 
+600e5023-d898-48fc-a8fe-21d8af841eef,Конфеты разные и по типу *желатиновых* мишек ,Katjes,250g,2.50   ,0.0,,Конфеты разные фигурки по типу желатиновых мишек  
+3d79ef7e-7b23-4fa5-88ff-b37bbfc691d3,Конфеты разные и по типу *желатиновых* мишек ,Katjes,175g,1.80   ,0.0,,Конфеты разные фигурки по типу желатиновых мишек  
+b0da2676-a776-4353-b33e-89d99c9679e1,Конфеты разные и по типу *желатиновых* мишек ,Haribo ,175g,1.80   ,"<0,5",,Конфеты разные фигурки по типу желатиновых мишек  
+47f84775-3992-46e0-96df-337b24ca04b3,Конфеты разные и по типу *желатиновых* мишек ,Haribo Erdbeere,200g,1.80   ,2.7,,"Конфеты ""шнуры"" со вкусом клубники"
+e0ce30cf-fb59-4b11-9223-ada0b1e2757c,Конфеты разные и по типу *желатиновых* мишек ,Haribo Waldbeere,200g,1.80   ,2.7,,"Конфеты ""шнуры"" со вкусом лесные ягоды"
+9d2895e4-bb51-493f-85a3-adc32aca53ed,Конфеты разные и по типу *желатиновых* мишек ,Haribo Kirsche,200g,1.80   ,2.7,,"Конфеты ""шнуры"" со вкусом вишни"
+fe754212-d6dc-4a36-b1fe-220a53b30a93,Конфеты разные и по типу *желатиновых* мишек ,Haribo Cola,200g,1.80   ,2.7,,"Конфеты ""шнуры"" со вкусом колы"
+bfebfe01-8146-4158-9e2b-3528d6c41800,Конфеты разные и по типу *желатиновых* мишек ,Gummibärchen,500g,8.00   ,0.0,,"Конфеты мишки по типу желатиновых, ассорти"
+6541b7b4-5da6-4054-b057-a6302de4f7b8,Конфеты разные и по типу *желатиновых* мишек ,Olivers Saure Bänder,400g,3.70   ,0.0,,"Конфеты ""шнуры"" в кислой обсыпке, вкусы яблоко, кола, клубника, вишня"
+310d571e-3b90-41d8-9c69-0bb67eb21ad5,Конфеты разные и по типу *желатиновых* мишек ,Fritt ,70g,1.20   ,2.0,,"Жевательные конфеты с разными вкусами, малина, клубника, лесные ягоды, вишня, грейпфрукт, апельсин, лимон"
+f5eab0da-a983-4fde-8a7b-4a213567ba99,Конфеты разные и по типу *желатиновых* мишек ,Fritt vegan,58g,1.20   ,0.0,,"Жевательные конфеты с разными вкусами, малина, клубника, лесные ягоды, вишня, грейпфрукт, апельсин, лимон"
+18e683b4-e2dc-451c-81c3-a8addabfd743,Конфеты разные и по типу *желатиновых* мишек ,Starburst Original,152g,3.80   ,0.0,,"Жевательные конфеты с разными вкусами, малина, клубника, лесные ягоды, вишня, грейпфрукт, апельсин, лимон"
+375db81f-fbdd-4072-8348-4e7fe6f8351a,Конфеты разные и по типу *желатиновых* мишек ,Marshmallow grill,300g,3.50   ,3.1,,Маршмелоу большие кусочки для гриля
+7d337abb-1dfe-4c7f-b257-dc1eb92da6c3,Конфеты разные и по типу *желатиновых* мишек ,Marshmallow klein,100g,2.35   ,3.1,,"Маршмелоу маленькие кусочки, подходит также и для украшения тортов"
+255c22b3-b96f-4ffa-9a90-f4481e656943,Balviten  ,Piekarz,500g,3.90   ,,,Мука для выпечки хлеба
+e532a68d-d264-4ade-822e-1c325c1834ed,Balviten  ,Kucharz,500g,3.90   ,,,Мука 
+9a47612f-5b70-4c7b-bd81-2f3f81f9648d,Balviten  ,Pizza,500g,5.15   ,,,Мука для изготовления пиццы
+8a178ce1-6cbc-4295-8372-45e91dc28a7a,Balviten  ,Pyzy,500g,5.70   ,,,Смесь для клецок
+c331c5c2-3ce3-413b-9216-3dd5c034d66b,Balviten  ,Extra koncentrat maki krakowskiej,500g,3.90   ,,,Мука Краковская 
+1fe1ef63-ef2e-4513-a339-f1217b82b16d,Balviten  ,Mix for Bread gluten free,1000g,4.70   ,1.8,,"Смесь муки для хлеба,  без глютена"
+d4703b64-626d-4a98-90fc-696c90d48073,Balviten  ,Zastepnik jajka Balviten,200g,7.10   ,,,Заменитель яиц
+60affcd9-4b92-43ef-bc3a-0f664a0c4201,Balviten  ,Kajzerki,200g,3.70   ,,,Булочки для завтрака
+50588cc0-daf0-4c95-965f-268cfad3fe3e,Balviten  ,Chleb jasny,300g,4.40   ,,,Хлеб белый
+f57e7d70-9e4a-40dc-b7ce-3518b6ad03f4,Balviten  ,Chleb jasny,200g,3.70   ,,,Хлеб белый
+acca95fa-a598-4bf4-b6be-415c90dc924d,Balviten  ,Chleb codzienny,300g,3.90   ,,,Хлеб на каждый день
+63aad482-2ee0-4439-afd0-fb5aaf43cffb,Balviten  ,Chleb swojski,300g,3.90   ,,,Хлеб домашний
+2b8224ec-df98-4174-99a1-5b266166d294,Balviten  ,Chlebus,250g,3.70   ,,,Хлеб 
+a437359a-852b-44ac-a20c-6d372e761ea1,Balviten  ,Chlebus,500g,3.90   ,,,Хлеб 
+e7f770e5-9fea-4979-896d-ad3e557e064f,Balviten  ,Chleb Premium,200g,3.90   ,,,Хлеб деревенский 
+ed4bf286-477a-4a29-8a48-d8838eb25246,Balviten  ,Precle,120g,3.60   ,,,Крендель
+aaaa498d-6c6a-4058-9dd4-7253458d3ea2,Balviten  ,Spagetti Balviten,250g,4.40   ,,,Спагетти косички
+6200233e-0fba-4117-b910-0ebeaa72b3be,Balviten  ,Makaron nitka cienka,250g,4.40   ,,,Вермишель тонкая 
+1b2a23ec-ea97-4dbd-bb89-67310ee62af5,Balviten  ,Makaron nitka gruba,250g,4.40   ,,,Вермишель толстая
+3f765ef9-125b-4ee9-b5ac-1f06285e4bde,Balviten  ,Makaron swiderki,250g,4.40   ,,,Макароны спиральки
+c5b21d68-92ca-4459-8316-e98ebfed3a96,Balviten  ,Makaron rurki,250g,4.40   ,,,Макароны трубочки
+ef58a43f-04a3-4fda-80cb-a3e14125e80e,Balviten  ,Makaron wstazki,250g,4.40   ,,,Лапша длиная
+7d7bf759-ec84-4e0e-8a69-269a69fd7fe2,Balviten  ,Makaron tasanka,250g,4.40   ,,,Лапша короткая
+67805576-2266-491c-958d-db40552d492d,Balviten  ,Makaron zacierka,250g,6.00   ,,,Макароны по типу кус куса
+5b134b6c-3741-48d0-b0b3-a947b85042b0,Balviten  ,Markizy Toffi,150g,4.40   ,0.8,,Печенья с карамелью Тоффи
+e0ec43fb-de26-4eda-9e9d-1e1f77aabfc9,Balviten  ,Markizy kokos,150g,4.40   ,1.0,,Печенья с кокосом
+b785cf2e-92e4-4822-aef5-19eaca7072ce,Balviten  ,Ciastka cynamonowe,150g,3.60   ,,,Печенья с корицей
+bc0b4174-60de-4f65-a3d8-8f448c11af86,Balviten  ,Paluszki,70g,3.60   ,,,Соломка
+1dcfc0e2-925b-42bc-ac07-db8b4b78b4cd,Balviten  ,Paluszki z sola,70g,3.60   ,,,Соломка с солью
+e205b97c-b868-4db5-b34d-8c3a28ed7a25,Balviten  ,Paluszki z sola bezluten,70g,3.60   ,,,"Соломка с солью, без глютена"
+e218b837-54c6-45c1-b07e-d6b500e9e15f,Balviten  ,Precelki,120g,3.90   ,,,Крендельки луковые
+731d6595-3ba7-4c0d-976c-762cc7691f83,BEZGLUTEN,Mehl Extra Universalkonzentrat PKU,1000g,6.70   ,0.4,,"Мука экстра, универсальная "
+3b77a295-6c84-4310-8399-3f30051ef243,BEZGLUTEN,Mehl Extra Universalkonzentratglutenfrei,1000g,7.40   ,0.6,,"Мука экстра, универсальная,  без глютена "
+5ddea2c0-892a-4540-b568-beb4b5d79117,BEZGLUTEN,Multi Mix Flour PKU,1000g,6.25   ,"<0,3",,"Мука мульти микс, универсальная"
+e60427b0-dd90-4adb-a23f-2d6474abf619,BEZGLUTEN,Multi Mix Flour glütenfrei,1000g,6.25   ,0.9,,"Мука мульти микс, универсальная,  без глютена"
+c26d0c74-851e-4069-9ab9-f311406b9bb5,BEZGLUTEN,Bread Mix glutenfrei,1000g,7.80   ,1.9,,"Мука для хлеба и пиццы,  без глютена"
+cb44b87c-d49b-42d3-afca-228c81c665a6,BEZGLUTEN,Bread Mix glutenfrei,500g,4.50   ,1.9,,"Мука для хлеба и пиццы,  без глютена"
+be3784a2-cd30-4497-88c9-871d75363255,BEZGLUTEN,Pancake/Dumpling Mix glutenfrei,500g,4.20   ,2.1,,"Cмесь для пельменей, вареников, блинов,  без глютена  "
+6ab62a6c-43d7-432f-8f64-9bfe0b8d73d8,BEZGLUTEN,Mix für Donuts und Berliner glütenfrei,400g,3.40   ,0.8,,"Cмесь для донатов и берлинеров,  без глютена  "
+e7b9f895-06b3-4b07-b37b-9c0906534dd7,BEZGLUTEN,Mix für Pancakes & Waffeln glütenfrei,300g,2.60   ,1.1,,"Cмесь для панкейков и вафель,  без глютена  "
+779f30c7-5d58-4141-924f-93dcf5e5f0c3,BEZGLUTEN,Babeczki PKU,250g,4.30   ,2.0,,Cмесь для изготовления маффинов
+0292fe8f-2624-43bb-8742-e6b24356d1e7,BEZGLUTEN,Ei-Erzatz PKU Bezgluten,200g,7.00   ,0.3,,Заменитель яиц
+92c001be-092d-422b-859c-74306e2de8e4,BEZGLUTEN,Bezgluten Tägliches Brot ,300g,5.00   ,1.0,,Хлеб на каждый день
+ade7e8fe-b2b8-4ac2-985d-a85d99fe0d5f,BEZGLUTEN,Bezgluten Weissbrot ,300g,5.00   ,0.7,,Хлеб белый
+f636eaf9-4c9b-44da-b7e7-88a6cdfdc55f,BEZGLUTEN,Pizzaboden Bezgluten,300g,4.70   ,0.6,,Коржи для пиццы
+145aedaa-c558-4848-a231-a2da7f362967,BEZGLUTEN,Bezgluten Ciabatta ,140g,3.65   ,0.7,,
+fca33cab-4103-41a7-823a-e6a9a3fb1261,BEZGLUTEN,Bezgluten Mini Baguettes ,240g,2.75   ,0.7,,
+021ccc4f-50d4-4b9c-afc0-9b1a652b08a9,BEZGLUTEN,Bezgluten Markizy mit Kokosfüllüng,190g,4.90   ,1.7,,Маркизы с кокосовой начинкой
+9b090286-ab4f-4ddc-b71d-331f2b706bc1,BEZGLUTEN,Bezgluten Markizy mit Toffifüllung ,160g,4.35   ,2.1,,Маркизы с начинкой тоффи
+6ba59737-5531-4dab-95bc-2751e694cfa7,BEZGLUTEN,Kekse Ciasteczka ,150g,3.60   ,0.3,,Печенье сливочное 
+85ac43ec-2480-4f09-b520-44dbbe8e7da0,BEZGLUTEN,Teegebäck Herbatniki,130g,3.40   ,0.4,,Печенье чайное 
+4983a92a-8b38-48e4-92b1-c56f738f2f7a,BEZGLUTEN,Keksmischung,150g,3.90   ,0.3,,Печенье ассорти 
+6723a6e8-372d-43e3-b54e-f37e9dc2ef2d,BEZGLUTEN,Gewürzkekse,150g,3.60   ,0.4,,"Пряное печенье, без глютена "
+ef907029-9dbe-4f08-9e16-64242ef8c20c,BEZGLUTEN,Schokowaffeln ,90g,3.70   ,"<0,5",,"Вафельки шоколадные фирмы ""Bezgluten"""
+7b9fb437-cd26-4249-aa23-d8b092eb77ad,BEZGLUTEN,Zitronenwaffeln ,90g,3.70   ,0.5,,"Вафельки лимонные фирмы ""Bezgluten"""
+f166ca2c-22a5-4623-a843-fddff33b6966,BEZGLUTEN,Bezgluten Chips ,70g,3.90   ,1.4,,Чипсы 
+baeec1b3-adbb-40fe-a3c8-8fb31e9e1805,BEZGLUTEN,Bezgluten Chips Paprika ,70g,3.90   ,2.2,,Чипсы с паприкой
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,Desert Schokoladen-Banane,219g,7.15   ,,,
+,,Desert Erdbeere-Vanile,219g,7.15   ,,,
+,,Desert Vanillesoße,219g,7.15   ,,,
+,,Desert Caramel,219g,7.15   ,,,
+,,,,,,,
+,,Sausagemix Apfel-Salbei,120g,7.80   ,0.8,,Сухая смесь для изготовления сосисок
+,,Pasta in marokkanische Sauce ,288g,10.20   ,,,
+,,,,,,,
+,,Haribo Apple extra sour,200g,1.70   ,,,
+,,Haribo Strawberry extra sour,200g,1.70   ,,,
+,,,,,,,
+,,Vegourmet Jeezini Hellas,200g,4.75   ,,,
+,,Vegourmet Jeezini Santi,200g,4.75   ,,,
+,,Frescolat MozzaRisella,200g,5.35   ,,,
+,,,,,,,
+,,Vitaflo VitaBite,175g,12.50   ,,,
+,,,,,,,
+,,,,,,,
+,,CBF Mozzarella,907g,39.00   ,,,Сыр моцарелла тертый производство Америка
+,,American Cheese Singles,300g,20.00   ,,,Сыр типа плавленный производство Америка
+,,Swiss Cheese Singles,300g,20.00   ,,,Сыр типа плавленный швейцарский  производство Америка

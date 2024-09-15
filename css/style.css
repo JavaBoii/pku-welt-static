@@ -1,0 +1,23 @@
+.card {
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+.img-fluid {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.accordion-button {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
