@@ -13,11 +13,41 @@
 }
 
 .img-fluid {
-    max-height: 200px;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
 }
+
 
 .accordion-button {
     font-weight: bold;
     font-size: 1.2rem;
 }
+
+#sidebar {
+    position: sticky;
+    top: 20px; /* Adjust as needed */
+    max-height: 90vh;
+    overflow-y: auto;
+    background-color: #f8f9fa; /* Light background */
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#sidebar .list-group-item {
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+}
+
+#sidebar .list-group-item:hover {
+    background-color: #e9ecef; /* Slight hover effect */
+    cursor: pointer;
+}
+
+#sidebar .list-group-item.active {
+    background-color: #007bff;
+    color: white;
+}
+

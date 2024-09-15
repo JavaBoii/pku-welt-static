@@ -3,30 +3,66 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Produktkatalog</title>
+    <title id="pages-title">Produktkatalog</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <!-- Include PapaParse -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/i18next/21.6.4/i18next.min.js"></script>
+    <script src="https://unpkg.com/i18next@latest/i18next.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
 </head>
 <body>
 <div class="container">
-    <h1 class="text-center my-4">Produktkatalog</h1>
-
-    <!-- Search Bar -->
-    <div class="row mb-3">
-        <div class="col-md-6 offset-md-3">
-            <input type="text" id="search" class="form-control" placeholder="Suche nach Produkten...">
-        </div>
+    <!-- Language Selector Dropdown -->
+    <div class="dropdown mb-3">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+            🇩🇪 Deutsch
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="languageDropdown">
+            <li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">🇬🇧 English</a></li>
+            <li><a class="dropdown-item" href="#" onclick="changeLanguage('de')">🇩🇪 Deutsch</a></li>
+            <li><a class="dropdown-item" href="#" onclick="changeLanguage('ru')">🇷🇺 Русский</a></li>
+        </ul>
     </div>
 
-    <!-- Product List -->
-    <div id="product-list" class="row g-4"></div>
+    <div class="row">
+        <!-- Sticky Sidebar -->
+        <div class="col-md-3">
+            <nav id="sidebar" class="navbar bg-light sticky-top">
+                <div class="list-group">
+                    <!-- Sidebar items will be dynamically generated -->
+                </div>
+            </nav>
+        </div>
 
-    <!-- Loading Spinner -->
-    <div id="loading-spinner" class="text-center mt-4" style="display: none;">
-        <div class="spinner-border text-primary" role="status">
-            <span class="visually-hidden">Lädt...</span>
+        <!-- Product List -->
+        <div class="col-md-9">
+            <h1 id="page-title" class="text-center my-4"></h1>
+
+            <!-- Search Bar -->
+            <div class="row mb-3">
+                <div class="col-md-6 offset-md-3">
+                    <input type="text" id="search" class="form-control placeholder-glow" placeholder="">
+                </div>
+            </div>
+
+            <!-- Language Selector -->
+            <div class="row mb-3">
+                <div class="col-md-6 offset-md-3 text-center">
+                    <button class="btn btn-primary" onclick="changeLanguage('en')">English</button>
+                    <button class="btn btn-primary" onclick="changeLanguage('de')">Deutsch</button>
+                    <button class="btn btn-primary" onclick="changeLanguage('ru')">Russisch</button>
+                </div>
+            </div>
+
+            <!-- Product List -->
+            <div id="product-list" class="row g-4"></div>
+
+            <!-- Loading Spinner -->
+            <div id="loading-spinner" class="text-center mt-4" style="display: none;">
+                <div class="spinner-border text-primary" role="status">
+                    <span class="visually-hidden">Lädt...</span>
+                </div>
+            </div>
         </div>
     </div>
 </div>
