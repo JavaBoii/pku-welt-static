@@ -14,27 +14,31 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <div class="container-fluid">
         <a class="navbar-brand" id="page-title-2" href="#">Produktkatalog</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#mobileOffcanvas" aria-controls="mobileOffcanvas">
+            <span class="navbar-toggler-icon"></span>
+        </button>
         <div class="dropdown ms-auto">
             <button class="btn btn-secondary dropdown-toggle" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">
                 🇩🇪 Deutsch
             </button>
             <ul class="dropdown-menu" aria-labelledby="languageDropdown">
-                <li><a class="dropdown-item" href="#" onclick="changeLanguage('ru')">🇷🇺 Русский</a></li>
                 <li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">🇬🇧 English</a></li>
                 <li><a class="dropdown-item" href="#" onclick="changeLanguage('de')">🇩🇪 Deutsch</a></li>
+                <li><a class="dropdown-item" href="#" onclick="changeLanguage('ru')">🇷🇺 Русский</a></li>
             </ul>
         </div>
     </div>
 </nav>
 
-<!-- Sidebar for categories (desktop always visible) -->
-<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+<!-- Off-canvas Sidebar for Mobile -->
+<div class="offcanvas offcanvas-start" tabindex="-1" id="mobileOffcanvas" aria-labelledby="offcanvasNavbarLabel">
     <div class="offcanvas-header">
         <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Kategorien</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
-        <nav id="sidebar">
+        <!-- Sidebar content for mobile -->
+        <nav class="sidebar-mobile">
             <div class="list-group">
                 <!-- Sidebar items will be dynamically generated -->
             </div>
@@ -42,10 +46,22 @@
     </div>
 </div>
 
-<!-- Main content -->
-<div class="container mt-5">
-    <!-- Product List -->
-    <div id="product-list" class="row g-4"></div>
+<!-- Sidebar for Desktop -->
+<div class="container-fluid">
+    <div class="row">
+        <!-- Sidebar Desktop - Always visible on larger screens -->
+        <nav class="col-md-3 col-lg-2 d-none d-lg-block bg-light sidebar-desktop">
+            <div class="list-group">
+                <!-- Sidebar items will be dynamically generated -->
+            </div>
+        </nav>
+
+        <!-- Main content -->
+        <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+            <!-- Product List -->
+            <div id="product-list" class="row g-4"></div>
+        </main>
+    </div>
 </div>
 
 <!-- Loading Spinner -->
@@ -54,7 +70,21 @@
         <span class="visually-hidden">Lädt...</span>
     </div>
 </div>
-<button id="goToTopButton">⬆️</button>
+<button id="goToTopButton">⬆️ Top</button>
+<!-- Image Modal -->
+<div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="imageModalLabel">Image Preview</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center">
+                <img id="modalImage" class="img-fluid" alt="Image Preview">
+            </div>
+        </div>
+    </div>
+</div>
 
 <script src="js/bootstrap.bundle.min.js"></script>
 <script src="js/script.js" defer></script>

@@ -148,7 +148,18 @@ function categorizeProducts(data) {
 // Render products and sidebar based on categories
 function renderCategorizedProducts(categories) {
     const productList = document.getElementById('product-list');
-    const sidebar = document.querySelector('#sidebar .list-group');
+    
+    // Select the appropriate sidebar based on screen size
+    let sidebar = window.innerWidth >= 992
+        ? document.querySelector('.sidebar-desktop .list-group')  // Desktop sidebar
+        : document.querySelector('.sidebar-mobile .list-group'); // Mobile sidebar
+
+    // Ensure sidebar exists before proceeding
+    if (!sidebar) {
+        console.error("Sidebar not found.");
+        return;
+    }
+
     let htmlContent = '';
     let sidebarContent = '';
 
@@ -205,3 +216,42 @@ function renderProductsHTML(products) {
     </div>
     `).join('');
 }
+
+// Enable Bootstrap's Scrollspy
+document.addEventListener('DOMContentLoaded', function () {
+    document.body.setAttribute('data-bs-spy', 'scroll');
+    document.body.setAttribute('data-bs-target', '.sidebar-desktop');
+    document.body.setAttribute('data-bs-offset', '0');
+    document.body.classList.add('scrollspy-enabled');
+});
+
+// Show "Go to Top" button after scrolling down
+window.onscroll = function () {
+    const goToTopButton = document.getElementById('goToTopButton');
+    if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+        goToTopButton.style.display = "block";
+    } else {
+        goToTopButton.style.display = "none";
+    }
+};
+
+// Scroll to top when the button is clicked
+document.getElementById('goToTopButton').addEventListener('click', function () {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+// Add event listener to all product images
+document.addEventListener('DOMContentLoaded', function () {
+    const images = document.querySelectorAll('.img-fluid');
+    const modalImage = document.getElementById('modalImage');
+
+    images.forEach(image => {
+        image.addEventListener('click', function () {
+            // Set the clicked image's src to the modal image
+            modalImage.src = this.src;
+            // Open the modal
+            const imageModal = new bootstrap.Modal(document.getElementById('imageModal'));
+            imageModal.show();
+        });
+    });
+});

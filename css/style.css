@@ -1,20 +1,26 @@
 /* General body padding to account for fixed navbar */
 body {
-    padding-top: 56px; /* Ensure content starts below the navbar */
+    padding-top: 50px; /* Ensure content starts below the navbar */
 }
 
-/* Style for images - fixed size with proper object fit */
+/* Set images to fixed size */
 .img-fluid {
     width: 200px;
     height: 200px;
     object-fit: cover;
+    cursor: pointer; /* Make it clickable */
 }
 
-/* Sidebar styling */
-#sidebar {
+/* Adjust accordion content to start below the navbar */
+.accordion-item {
+    margin-top: 10px;
+}
+
+/* Sidebar styling for desktop */
+.sidebar-desktop {
     position: sticky;
-    top: 20px; /* Keeps it below the navbar */
-    max-height: 90vh;
+    top: 70px; /* Keeps it below the navbar */
+    height: 100vh; /* Full height for the sidebar */
     overflow-y: auto;
     background-color: #f8f9fa;
     padding: 10px;
@@ -23,111 +29,57 @@ body {
 }
 
 /* List-group styling for sidebar categories */
-#sidebar .list-group-item {
+.sidebar-desktop .list-group-item {
     font-weight: bold;
     padding: 10px;
     border: none;
 }
 
 /* Hover effect for sidebar items */
-#sidebar .list-group-item:hover {
+.sidebar-desktop .list-group-item:hover {
     background-color: #e9ecef; /* Slight hover effect */
     cursor: pointer;
 }
 
 /* Active link style for sidebar */
-#sidebar .list-group-item.active {
+.sidebar-desktop .list-group-item.active {
     background-color: #007bff;
     color: white;
 }
 
-/* Off-canvas background style (sidebar) */
+/* Off-canvas sidebar for mobile */
 .offcanvas {
     background-color: #f8f9fa; /* Optional styling for the off-canvas sidebar */
 }
 
-/* Navbar background */
-.navbar {
-    background-color: #f8f9fa;
-}
-
-/* Placeholder styles for loading images */
-.placeholder {
-    display: inline-block;
-    height: 200px;
-    width: 200px;
-    background-color: #e9ecef;
-    border-radius: 5px;
-}
-
-/* Add placeholder animation */
-.placeholder-glow .placeholder {
-    animation: glow 2s ease-in-out infinite;
-}
-
-@keyframes glow {
-    0% {
-        background-color: #e9ecef;
+/* Sidebar visibility for mobile */
+@media (max-width: 991px) {
+    .offcanvas {
+        display: block !important; /* Ensure off-canvas works for mobile */
     }
-    50% {
-        background-color: #f3f3f3;
-    }
-    100% {
-        background-color: #e9ecef;
-    }
-}
-
-/* Navbar styling */
-.navbar-toggler {
-    border: none;
-}
-
-.navbar-brand {
-    font-weight: bold;
-}
-
-.dropdown-item {
-    display: flex;
-    align-items: center;
-}
-
-.dropdown-item img {
-    margin-right: 5px;
-}
-
-/* Adjusting search bar in mobile view */
-@media (max-width: 576px) {
-    .form-control {
-        width: 100%;
+    .sidebar-desktop {
+        display: none !important; /* Hide the desktop sidebar on mobile */
     }
 }
 
 /* Sidebar visibility for desktop */
 @media (min-width: 992px) {
     .offcanvas {
-        display: none !important;
+        display: none !important; /* Disable off-canvas on desktop */
     }
-    #sidebar {
-        display: block !important;
+    .sidebar-desktop {
+        display: block !important; /* Show the sidebar on desktop */
         position: sticky;
         top: 20px;
-        max-height: 90vh;
+        max-height: 100vh;
         overflow-y: auto;
         background-color: #f8f9fa;
     }
 }
 
-/* Sidebar styling for desktop */
-#sidebar {
-    border: 1px solid #ddd;
-    padding: 10px;
+/* Navbar background */
+.navbar {
     background-color: #f8f9fa;
-    border-radius: 5px;
-}
-/* Sidebar active item style */
-#sidebar .list-group-item.active {
-    background-color: #007bff;
-    color: white;
 }
 
 /* Go to Top button */
