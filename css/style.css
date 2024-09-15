@@ -1,53 +1,151 @@
-.card {
-    border: 1px solid black;
-    margin-bottom: 20px;
+/* General body padding to account for fixed navbar */
+body {
+    padding-top: 56px; /* Ensure content starts below the navbar */
 }
 
-.card-title {
-    font-size: 1.2rem;
-    font-weight: bold;
-}
-
-.card-text {
-    font-size: 1rem;
-}
-
+/* Style for images - fixed size with proper object fit */
 .img-fluid {
     width: 200px;
     height: 200px;
     object-fit: cover;
 }
 
-
-.accordion-button {
-    font-weight: bold;
-    font-size: 1.2rem;
-}
-
+/* Sidebar styling */
 #sidebar {
     position: sticky;
-    top: 20px; /* Adjust as needed */
+    top: 20px; /* Keeps it below the navbar */
     max-height: 90vh;
     overflow-y: auto;
-    background-color: #f8f9fa; /* Light background */
+    background-color: #f8f9fa;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+/* List-group styling for sidebar categories */
 #sidebar .list-group-item {
     font-weight: bold;
     padding: 10px;
     border: none;
 }
 
+/* Hover effect for sidebar items */
 #sidebar .list-group-item:hover {
     background-color: #e9ecef; /* Slight hover effect */
     cursor: pointer;
 }
 
+/* Active link style for sidebar */
 #sidebar .list-group-item.active {
     background-color: #007bff;
     color: white;
 }
 
+/* Off-canvas background style (sidebar) */
+.offcanvas {
+    background-color: #f8f9fa; /* Optional styling for the off-canvas sidebar */
+}
+
+/* Navbar background */
+.navbar {
+    background-color: #f8f9fa;
+}
+
+/* Placeholder styles for loading images */
+.placeholder {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+}
+
+/* Add placeholder animation */
+.placeholder-glow .placeholder {
+    animation: glow 2s ease-in-out infinite;
+}
+
+@keyframes glow {
+    0% {
+        background-color: #e9ecef;
+    }
+    50% {
+        background-color: #f3f3f3;
+    }
+    100% {
+        background-color: #e9ecef;
+    }
+}
+
+/* Navbar styling */
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.dropdown-item {
+    display: flex;
+    align-items: center;
+}
+
+.dropdown-item img {
+    margin-right: 5px;
+}
+
+/* Adjusting search bar in mobile view */
+@media (max-width: 576px) {
+    .form-control {
+        width: 100%;
+    }
+}
+
+/* Sidebar visibility for desktop */
+@media (min-width: 992px) {
+    .offcanvas {
+        display: none !important;
+    }
+    #sidebar {
+        display: block !important;
+        position: sticky;
+        top: 20px;
+        max-height: 90vh;
+        overflow-y: auto;
+        background-color: #f8f9fa;
+    }
+}
+
+/* Sidebar styling for desktop */
+#sidebar {
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+}
+/* Sidebar active item style */
+#sidebar .list-group-item.active {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Go to Top button */
+#goToTopButton {
+    display: none;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    z-index: 1000;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#goToTopButton:hover {
+    background-color: #0056b3;
+}
