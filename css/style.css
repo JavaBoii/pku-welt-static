@@ -1,7 +1,4 @@
-/* General body padding to account for fixed navbar */
-body {
-    padding-top: 50px; /* Ensure content starts below the navbar */
-}
+
 
 /* Set images to fixed size */
 .img-fluid {
@@ -13,17 +10,15 @@ body {
 
 /* Adjust accordion content to start below the navbar */
 .accordion-item {
-    margin-top: 10px;
 }
 
 /* Sidebar styling for desktop */
 .sidebar-desktop {
     position: sticky;
-    top: 70px; /* Keeps it below the navbar */
-    height: 100vh; /* Full height for the sidebar */
+    top: 70px; /* Ensure sidebar stays below the navbar */
+    height: calc(100vh - 70px); /* Adjust the height */
     overflow-y: auto;
     background-color: #f8f9fa;
-    padding: 10px;
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
@@ -70,7 +65,7 @@ body {
     .sidebar-desktop {
         display: block !important; /* Show the sidebar on desktop */
         position: sticky;
-        top: 20px;
+        top: 70px;
         max-height: 100vh;
         overflow-y: auto;
         background-color: #f8f9fa;

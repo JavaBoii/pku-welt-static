@@ -27,7 +27,7 @@ function changeLanguage(lng) {
 // Initialize i18next for localization
 i18next.init({
     lng: 'ru', // Default language
-    debug: true,
+    debug: false,
     resources: {
         en: {
             translation: {
@@ -255,3 +255,23 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     });
 });
+
+document.addEventListener('DOMContentLoaded', function () {
+    const navbarHeight = document.querySelector('.navbar').offsetHeight;
+
+    const sidebarLinks = document.querySelectorAll('.sidebar-desktop .list-group-item');
+    sidebarLinks.forEach(link => {
+        link.addEventListener('click', function (event) {
+            event.preventDefault();
+
+            const targetAccordion = document.querySelector(this.getAttribute('href'));
+            if (targetAccordion) {
+                window.scrollTo({
+                    top: targetAccordion.getBoundingClientRect().top + window.pageYOffset - navbarHeight,
+                    behavior: 'smooth'
+                });
+            }
+        });
+    });
+});
+
